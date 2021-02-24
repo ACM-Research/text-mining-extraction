@@ -1,0 +1,1 @@
+This is info about each script in this folder.
