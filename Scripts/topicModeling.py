@@ -1,4 +1,4 @@
-import gensim
+# Requires pyLDAvis 3.2.2
 import gensim.corpora.dictionary
 import pyLDAvis.gensim
 from tqdm import tqdm
@@ -10,7 +10,6 @@ import os
 from nltk.stem import WordNetLemmatizer,PorterStemmer
 from nltk.tokenize import word_tokenize
 import gensim
-from multiprocessing import Process, freeze_support
 import pyLDAvis
 import pyLDAvis.gensim
 from tqdm import tqdm
@@ -30,6 +29,7 @@ url = 'https://raw.githubusercontent.com/ACM-Research/text-mining-extraction/mai
 response = urllib.request.urlopen(url)
 toc = pd.read_csv(response)
 
+# This works for the documents as a whole
 corpus=[]
 for x in toc['URL(text-only)']:
 
@@ -53,3 +53,23 @@ lda_model = gensim.models.LdaModel(tqdm(bow_corpus),
 
 vis = pyLDAvis.gensim.prepare(lda_model, bow_corpus, dic)
 pyLDAvis.save_html(vis, "output.html")
+
+"""
+# This code can be used to analyze the topics per text
+for i, corpus in enumerate(corpuses):
+    dic=gensim.corpora.Dictionary(corpus)
+    bow_corpus=[dic.doc2bow(doc) for doc in corpus]
+
+    lda_model = gensim.models.LdaModel(tqdm(bow_corpus),
+                                        num_topics=4,
+                                        id2word = dic,
+                                        passes = 10)
+    
+    lda_models.append(lda_model)
+    
+    print("Title: {} \nWords: {}".format(toc['Title'][i], lda_model.print_topics(num_topics=4, num_words=5)))
+
+    vis = pyLDAvis.gensim.prepare(lda_model, bow_corpus, dic)
+    pyLDAvis.save_html(vis, "output0{}.html".format(i+6))
+
+"""
