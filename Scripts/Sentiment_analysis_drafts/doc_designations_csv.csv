@@ -1,0 +1,151 @@
+Title,Designation,Score,Pos_Val,Neg_Val,Neu_Val,Number
+The Adventures of Two Alabama Boys,pos,40.97616345,0.409761635,0.227582293,0.362656073,1
+"Autobiography and Biography of Rev. Joseph Caldwell, D.D., L.L.D., First President of the University of North Carolina",pos,51.43403442,0.514340344,0.260038241,0.225621415,2
+Autobiography and Reminiscences of John W. Carroll,pos,45.8123108,0.458123108,0.262361251,0.279515641,3
+"Autobiography of Asa Biggs, Including a Journal of a Trip from North Carolina to New York in 1832",pos,46.96969697,0.46969697,0.216783217,0.313519814,4
+"Autobiography of Bishop Isaac Lane, LL.D. with a Short History of the C.M.E. Church in America and of Methodism",pos,43.08797127,0.430879713,0.122082585,0.447037702,5
+Autobiography of Col. Richard Malcolm Johnston,pos,44.74097331,0.447409733,0.246467818,0.306122449,6
+"Autobiography of John G. Fee: Berea, Kentucky",pos,38.12282735,0.381228273,0.22769409,0.391077636,7
+The Autobiography of Joseph LeConte,pos,48.89670611,0.488967061,0.18835945,0.322673489,8
+Autobiography of Lemuel Sawyer: Formerly Member of Congress from North Carolina,pos,43.87254902,0.43872549,0.285130719,0.276143791,9
+Belle Boyd in Camp and Prison. In Two Volumes. Vol. I.,pos,42.26006192,0.422600619,0.364551084,0.212848297,10
+Belle Boyd in Camp and Prison. In Two Volumes. Vol. II.,pos,37.85394933,0.378539493,0.301043219,0.320417288,11
+"A Belle of the Fifties: Memoirs of Mrs. Clay, of Alabama, Covering Social and Political Life in Washington and the South, 1853-66",pos,46.921797,0.46921797,0.241680532,0.289101498,12
+"Bill Arp from the Uncivil War to Date, 1861-1903",pos,45.56962025,0.455696203,0.262072199,0.282231599,13
+Biography of James Patton,pos,42.03821656,0.420382166,0.243630573,0.335987261,14
+"Biography of Rev. David Smith of the A. M. E. Church; Being a Complete History, Embracing over Sixty Years' Labor in the Advancement of the Redeemer's Kingdom on Earth. Including ""The History of the Origin and Development of Wilberforce University.""",pos,39.83679525,0.398367953,0.12388724,0.477744807,15
+Bits of Gossip,pos,38.91891892,0.389189189,0.269369369,0.341441441,16
+"A Boy's Experience in the Civil War, 1860-1865",pos,44.82173175,0.448217317,0.314091681,0.237691002,17
+"A Brief History of the Slave Life of Rev. L. R. Ferebee, and the Battles of Life, and Four Years of His Ministerial Life. Written from Memory. To 1882",pos,31.77570093,0.317757009,0.252336449,0.429906542,18
+Canal Reminiscences: Recollections of Travel in the Old Days on the James River &amp; Kanawha Canal,pos,42,0.42,0.19,0.39,19
+A Confederate Girl's Diary,pos,30.18398119,0.301839812,0.280675059,0.417485129,20
+Country Life in Georgia in the Days of My Youth,pos,42.42364918,0.424236492,0.287783868,0.28797964,21
+Destruction and Reconstruction: Personal Experiences of the Late War,pos,40.03900808,0.400390081,0.379771524,0.219838395,22
+"A Diary from Dixie, as Written by Mary Boykin Chesnut, Wife of James Chesnut, Jr., United States Senator from South Carolina, 1859-1861, and Afterward an Aide to Jefferson Davis and a Brigadier-General in the Confederate Army",pos,32.38084608,0.323808461,0.274249358,0.401942181,23
+Diary of a Refugee,pos,55.1625239,0.551625239,0.247609943,0.200764818,24
+Diary of a Tar Heel Confederate Soldier,neg,29.26646707,0.185628743,0.292664671,0.521706587,25
+The Diary of Bartlett Yancey Malone,pos,31.23028391,0.312302839,0.283911672,0.403785489,26
+"Diary of Belle Edmondson, January - November, 1864",pos,38.05486284,0.380548628,0.28478803,0.334663342,27
+"Diary of Brigadier-General Marcus J. Wright, C.S.A.: April 23, 1861 - February 26, 1863",neg,17.89473684,0.092105263,0.178947368,0.728947368,28
+"Diary, 1864-1865: (Transcript)",neg,34.6426623,0.301145663,0.346426623,0.352427714,29
+The End of an Era,pos,41.62735849,0.416273585,0.278301887,0.305424528,30
+"Experience and Personal Narrative of Uncle Tom Jones; Who Was for Forty Years a Slave. Also the Surprising Adventures of Wild Tom, of the Island Retreat, a Fugitive Negro from South Carolina",pos,39.23705722,0.392370572,0.359673025,0.247956403,31
+"Experience of a Confederate Chaplain, 1861-1864",pos,18.49984242,0.184998424,0.148439962,0.666561614,32
+The Experience of a Slave in South Carolina,neg,33.13609467,0.318047337,0.331360947,0.350591716,33
+"The Experience of Rev. Thomas H. Jones, Who Was a Slave for Forty-Three Years. Written by a Friend, as Related to Him by Brother Jones",pos,44.32008954,0.443200895,0.19418019,0.362618914,34
+"The Experience of Thomas H. Jones, who was a Slave for Forty-Three Years",pos,48.15642458,0.481564246,0.231284916,0.287150838,35
+"Extracts of Letters of Major-Gen'l Bryan Grimes to His Wife: Written While in Active Service in the Army of Northern Virginia: Together with Some Personal Recollections of the War, Written by Him After its Close, etc.",neg,37.88254756,0.242349049,0.378825476,0.378825476,36
+Fagots from the Campfire,neg,34.20658683,0.340568862,0.342065868,0.317365269,37
+"Ferry Hill Plantation Journal: January 4, 1838 - January 15, 1839",neg,14.52411517,0.142490372,0.145241152,0.712268476,38
+"Fifty Years in Chains, or, The Life of an American Slave",pos,40.46543939,0.404654394,0.326154915,0.269190691,39
+Finding a Way Out: An Autobiography,pos,57.18071012,0.571807101,0.186009539,0.24218336,40
+"Forget-me-nots of the Civil War; A Romance, Containing Reminiscences and Original Letters of Two Confederate Soldiers",pos,44.13458624,0.441345862,0.222491664,0.336162473,41
+Four Years under Marse Robert,pos,44.56055734,0.445605573,0.351286174,0.203108253,42
+"From Flag to Flag: A Woman's Adventures and Experiences in the South During the War, in Mexico, and in Cuba",pos,43.97977941,0.439797794,0.315716912,0.244485294,43
+"From Log Cabin to the Pulpit, or, Fifteen Years in Slavery",pos,38.85684321,0.388568432,0.23439958,0.377031987,44
+A Girl's Life in Virginia Before the War,pos,48.70820669,0.487082067,0.231762918,0.281155015,45
+A Grandmother's Recollections of Dixie,pos,53.99568035,0.539956803,0.241900648,0.218142549,46
+The Heart of a Soldier: As Revealed in the Intimate Letters of Genl. George E. Pickett C.S.A.,pos,45.71235652,0.457123565,0.253207292,0.289669142,47
+The Heir of Slaves: An Autobiography,pos,45.64885496,0.45648855,0.225954198,0.317557252,48
+History of Corporal Fess Whitaker,pos,37.01388889,0.370138889,0.267361111,0.3625,49
+"How a One-Legged Rebel Lives: Reminiscences of the Civil War: The Story of the Campaigns of Stonewall Jackson, as Told by a High Private in the ""Foot Cavalry"": From Alleghany Mountain to Chancellorsville: With the Complete Regimental Rosters of Both the Great Armies at Gettysburg",pos,40.38461538,0.403846154,0.382051282,0.214102564,50
+How It Was: Four Years Among the Rebels,pos,44.37627812,0.443762781,0.267893661,0.288343558,51
+Humorous Incidents of the Civil War,pos,32.78688525,0.327868852,0.281967213,0.390163934,52
+Incidents in the Life of a Slave Girl. Written by Herself,pos,39.48728996,0.3948729,0.296854804,0.308272296,53
+"Journal of Meta Morris Grimball: South Carolina, December 1860-February 1866",pos,42.52539913,0.425253991,0.316400581,0.258345428,54
+The Last Flag of Truce,pos,48.76033058,0.487603306,0.289256198,0.223140496,55
+Lieutenant General Jubal Anderson Early C.S.A.: Autobiographical Sketch and Narrative of the War between the States,neg,44.35430827,0.275816707,0.443543083,0.28064021,56
+Life Gleanings,pos,56.23742455,0.562374245,0.184104628,0.253521127,57
+Life in the Confederate Army: Being Personal Experiences of a Private Soldier in the Confederate Army ; and Some Experiences and Sketches of Southern Life,neg,37.69168684,0.343018563,0.376916868,0.280064568,58
+"Life of George M. Horton. The Colored Bard of North Carolina from ""The Poetical Works of George M. Horton, the Colored Bard of North Carolina, to which is Prefixed the Life of the Author, written by himself.""",pos,50.94339623,0.509433962,0.29245283,0.198113208,59
+Life of Isaac Mason as a Slave,pos,38.66943867,0.386694387,0.264033264,0.349272349,60
+"Life of Lucius B. Compton, the Mountain Evangelist, or, From the Depths of Sin to the Heights of Holiness",pos,51.69204738,0.516920474,0.248730964,0.234348562,61
+Marion Harland's Autobiography: The Story of a Long Life,pos,46.85358255,0.468535826,0.213239875,0.318224299,62
+Marse Henry: An Autobiography. Volume I,pos,42.74495138,0.427449514,0.238967838,0.333582648,63
+Marse Henry: An Autobiography. Volume II,pos,45.22393975,0.452239398,0.215219976,0.332540626,64
+"Memoir and Memorials: Elisha Franklin Paxton, Brigadier-General, C.S.A.; Composed of his Letters from Camp and Field While an Officer in the Confederate Army, with an Introductory and Connecting Narrative Collected and Arranged by his Son, John Gallatin Paxton",pos,44.43298969,0.444329897,0.280927835,0.274742268,65
+"Memoirs of a Southern Woman ""Within the Lines,"" and a Genealogical Record",pos,32.98850575,0.329885057,0.232183908,0.437931034,66
+"Memoirs of a Southerner, 1840-1923",pos,43.30985915,0.433098592,0.281690141,0.285211268,67
+The Memoirs of Colonel John S. Mosby,neg,32.40534521,0.274832962,0.324053452,0.401113586,68
+"Memoirs of Samuel M. Janney: Late of Lincoln, Loudoun County, Va.: A Minister in the Religious Society of Friends",pos,58.97045385,0.589704539,0.148339933,0.261955528,69
+Memoirs of W. W. Holden,pos,40.3786878,0.403786878,0.221488331,0.374724791,70
+Memorials of a Southern Planter,pos,42.50042466,0.425004247,0.227110583,0.347885171,71
+Memories of Childhood's Slavery Days,pos,38.91050584,0.389105058,0.2230869,0.387808042,72
+"Military Reminiscences of Gen. Wm. R. Boggs, C.S.A.",pos,34.07747866,0.340774787,0.263952725,0.395272489,73
+More Slavery at the South,pos,41.44144144,0.414414414,0.225225225,0.36036036,74
+"""Morgan's Men:"" A Narrative of Personal Experiences",pos,33.8501292,0.338501292,0.273901809,0.387596899,75
+My Beloved South,pos,55.76296939,0.557629694,0.2053397,0.237030606,76
+My Day: Reminiscences of a Long Life,pos,46.67771029,0.466777103,0.243143751,0.290079146,77
+My Imprisonment and the First Year of Abolition Rule at Washington,pos,41.58415842,0.415841584,0.381188119,0.202970297,78
+My Larger Education: Being Chapters from My Experience,pos,55.00863558,0.550086356,0.183074266,0.266839378,79
+"My Manse During the War: A Decade of Letters to the Rev. J. Thomas Murray, Editor of the Methodist Protestant",pos,34.87804878,0.348780488,0.234146341,0.417073171,80
+"My Own Life, or, A Deserted Wife",pos,44.97816594,0.449781659,0.254148472,0.296069869,81
+The Narrative of Bethany Veney: A Slave Woman,pos,39.04958678,0.390495868,0.276859504,0.332644628,82
+"Narrative of James Williams, an American Slave, Who Was for Several Years a Driver on a Cotton Plantation in Alabama",neg,36.4851958,0.276026743,0.364851958,0.359121299,83
+"Narrative of Prison Life at Baltimore and Johnson's Island, Ohio",neg,39.41605839,0.335766423,0.394160584,0.270072993,84
+"Narrative of the Adventures and Escape of Moses Roper, from American Slavery. With an Appendix, Containing a List of Places Visited by the Author in Great Britain and Ireland and the British Isles; and Other Matter",pos,32.0376914,0.320376914,0.254416961,0.425206125,85
+"A Narrative of the Adventures and Escape of Moses Roper, from American Slavery",pos,34.63949843,0.346394984,0.29153605,0.362068966,86
+"Narrative of the Life of Moses Grandy, Late a Slave in the United States of America",pos,37.59259259,0.375925926,0.312962963,0.311111111,87
+"Narrative of William W. Brown, an American Slave. Written by Himself",pos,29.68217934,0.296821793,0.259931896,0.443246311,88
+"The New Man: Twenty-Nine Years a Slave,Twenty-Nine Years a Free Man",pos,45.86614173,0.458661417,0.307086614,0.234251969,89
+The New Slavery in the South--An Autobiography,pos,28.57142857,0.285714286,0.259259259,0.455026455,90
+The Old Capitol and its Inmates,neg,37.5739645,0.302514793,0.375739645,0.321745562,91
+Old Plantation Days: Being Recollections of Southern Life Before the Civil War,pos,44.16543575,0.441654357,0.262924668,0.295420975,92
+The Old Plantation: How We Lived in Great House and Cabin Before the War,pos,56.56608585,0.565660858,0.161495963,0.272843179,93
+"The Old South, a Monograph",pos,57.41127349,0.574112735,0.229645094,0.196242171,94
+Old Times in Dixie Land: a Southern Matron's Memories,pos,50.04194631,0.500419463,0.26216443,0.237416107,95
+On the Old Plantation: Reminiscences of His Childhood,pos,43.1372549,0.431372549,0.270453009,0.298174442,96
+"One of Jackson's Foot Cavalry: His Experience and what He Saw During the War 1861-1865, Including a History of ""F Company,"" Richmond, Va., 21st Regiment Virginia Infantry, Second Brigade, Jackson's Division, Second Corps, A. N. Va.",neg,36.48031945,0.268111808,0.364803195,0.367084997,97
+"One of the Wonders of the Age, or, The Life and Times of Rev. Johnson Olive, Wake County, North Carolina",pos,45.1800554,0.451800554,0.290304709,0.257894737,98
+Plantation Life before Emancipation,pos,42.89389068,0.428938907,0.216720257,0.354340836,99
+"The Planter, or, Thirteen Years in the South by a Northern Man",pos,46.61683714,0.466168371,0.322187254,0.211644375,100
+"The Poetical Works of George M. Horton: The Colored Bard of North Carolina: To Which is Prefixed the Life of the Author, Written by Himself",pos,50.09940358,0.500994036,0.31610338,0.182902584,101
+A Rebel's Recollections,pos,44.29289304,0.44292893,0.35821967,0.1988514,102
+Recollections and Reflections: An Auto of Half a Century and More,pos,47.05147426,0.470514743,0.266866567,0.262618691,103
+Recollections Grave and Gay,pos,53.50649351,0.535064935,0.254256854,0.210678211,104
+"Recollections of a Naval Life: Including the Cruises of the Confederate States Steamers, ""Sumter"" and ""Alabama""",pos,52.35016165,0.523501617,0.205918926,0.270579458,105
+Recollections of a Rebel Reefer,pos,41.93124178,0.419312418,0.32988916,0.250798422,106
+Recollections of a Southern Matron,pos,50.94117647,0.509411765,0.257647059,0.232941176,107
+"Recollections of a Virginian in the Mexican, Indian, and Civil Wars",pos,48.34853728,0.483485373,0.283107896,0.233406732,108
+Reminiscences of a Mississippian in Peace and War,pos,39.30578512,0.393057851,0.342479339,0.26446281,109
+Reminiscences of a Soldier of the Orphan Brigade,pos,49.29149798,0.49291498,0.358299595,0.148785425,110
+Reminiscences of the Civil War,pos,41.05121811,0.410512181,0.37080376,0.218684059,111
+Reminiscences of the Civil War,pos,40.26845638,0.402684564,0.315436242,0.281879195,112
+"The Siege of Savannah in December, 1864, and the Confederate Operations in Georgia and the Third Military District of South Carolina During General Sherman's March from Atlanta to the Sea",neg,27.3299028,0.255574614,0.273299028,0.471126358,113
+Sketch of Cobb Legion Cavalry and Some Incidents and Scenes Remembered,neg,39.87138264,0.389067524,0.398713826,0.21221865,114
+"A Sketch of the Battle of Franklin, Tenn.; with Reminiscences of Camp Douglas",neg,41.25636672,0.32852292,0.412563667,0.258913413,115
+A Slaveholder's Daughter,pos,43.48697395,0.434869739,0.230460922,0.334669339,116
+Social Life in Old New Orleans. Being Recollections of My Girlhood,pos,41.4266118,0.414266118,0.218449931,0.367283951,117
+Social Life in Old Virginia before the War,pos,58.24634656,0.582463466,0.135699374,0.281837161,118
+A Soldier's Recollections: Leaves from the Diary of a Young Confederate: With an Oration on the Motives and Aims of the Soldiers of the South,pos,38.02885791,0.380288579,0.309611152,0.310100269,119
+A Soldier's Story: Prison Life and Other Incidents in the War of 1861-'65,neg,43.95604396,0.315018315,0.43956044,0.245421245,120
+Some Reminiscences,pos,40.25906736,0.402590674,0.301036269,0.296373057,121
+The South in the Olden Time,pos,44.11764706,0.441176471,0.294117647,0.264705882,122
+A Southern Girl in '61: The War-Time Memories of a Confederate Senator's Daughter,pos,33.97979798,0.33979798,0.243636364,0.416565657,123
+The Southern Husband Outwitted by His Union Wife,pos,35.6374808,0.356374808,0.31233999,0.331285202,124
+A Southern Woman's War Time Reminiscences,pos,35.70595099,0.35705951,0.319719953,0.323220537,125
+The Story of a Confederate Boy in the Civil War,neg,45.47224927,0.305258033,0.454722493,0.240019474,126
+The Story of My Life or More Than a Half Century As I Have Lived and Seen It Lived Written by Myself at My Own Suggestion and That of Many Others Who Have Known and Loved Me,pos,46.07256076,0.460725608,0.197780909,0.341493484,127
+Ten Years on a Georgia Plantation Since the War,pos,45.69575472,0.456957547,0.310731132,0.232311321,128
+The Testimony of a Refugee from East Tennessee,pos,52.17391304,0.52173913,0.320158103,0.158102767,129
+Thirty Years a Slave: From Bondage to Freedom: The Institution of Slavery as Seen on the Plantation and in the Home of the Planter,pos,34.91606715,0.349160671,0.2441247,0.406714628,130
+Tupelo,pos,36.15819209,0.361581921,0.335651166,0.302766913,131
+"Twelve Years a Slave: Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853",pos,37.0923162,0.370923162,0.266721946,0.362354892,132
+Twenty-Five Years in the Black Belt,pos,41.60458453,0.416045845,0.248137536,0.335816619,133
+"Twenty-Two Years a Slave, and Forty Years a Freeman; Embracing a Correspondence of Several Years, While President of Wilberforce Colony, London, Canada West",pos,43.65391491,0.436539149,0.338577047,0.224883804,134
+Two Boys in the Civil War and After,neg,44.49152542,0.322033898,0.444915254,0.233050847,135
+"Two Diaries from Middle St. John's, Berkeley, South Carolina, February-May, 1865",neg,27.56892231,0.234753551,0.275689223,0.489557226,136
+Up from Slavery: An Autobiography,pos,51.70876672,0.517087667,0.209881129,0.273031204,137
+The Valley Campaigns: Being the Reminiscences of a Non-Combatant While Between the Lines in the Shenandoah Valley During the War of the States,pos,40.56737589,0.405673759,0.354255319,0.240070922,138
+"A Virginia Girl in the Civil War, 1861-1865",pos,35.26244953,0.352624495,0.262987887,0.384387618,139
+"War Days in Fayetteville, North Carolina: Reminiscences of 1861 to 1865",pos,35.34361851,0.353436185,0.316970547,0.329593268,140
+War Stories and School-Day Incidents for the Children,pos,30.94435076,0.309443508,0.306070826,0.384485666,141
+"The War-Time Journal of a Georgia Girl, 1864-1865",pos,40.75080267,0.407508027,0.332921709,0.259570264,142
+War-Time Sketches: Historical and Otherwise,pos,44.09509202,0.44095092,0.348159509,0.210889571,143
+"The War; ""Stonewall"" Jackson, His Campaigns, and Battles, the Regiment as I Saw Them",neg,37.76553895,0.349331235,0.377655389,0.273013375,144
+What Experience Has Taught Me: An Autobiography of Thomas William Burton,pos,47.20327422,0.472032742,0.173260573,0.354706685,145
+With Sabre and Scalpel; the Autobiography of a Soldier and Surgeon,pos,42.2403734,0.422403734,0.322053676,0.25554259,146
+"The Woman in Battle: A Narrative of the Exploits, Adventures, and Travels of Madame Loreta Janeta Velazquez, Otherwise Known as Lieutenant Harry T. Buford, Confederate States Army. In Which Is Given Full Descriptions of the Numerous Battles in which She Participated as a Confederate Officer; of Her Perilous Performances as a Spy, as a Bearer of Despatches, as a Secret-Service Agent, and as a Blockade-Runner; of Her Adventures Behind the Scenes at Washington, including the Bond Swindle; of her Career as a Bounty and Substitute Broker in New York; of Her Travels in Europe and South America; Her Mining Adventures on the Pacific Slope; Her Residence among the Mormons; Her Love Affairs, Courtships, Marriages, &amp;c., &amp;c.",pos,54.98975248,0.549897525,0.27715592,0.172946555,147
+A Woman Rice Planter,pos,43.97725314,0.439772531,0.264001379,0.29622609,148
+"A Woman's War Record, 1861-1865",pos,45.83333333,0.458333333,0.324404762,0.217261905,149
+"A Woman's Wartime Journal: an Account of the Passage over Georgia's Plantation of Sherman's Army on the March to the Sea, as Recorded in the Diary of Dolly Sumner Lunt (Mrs. Thomas Burge)",neg,29.23728814,0.256355932,0.292372881,0.451271186,150
