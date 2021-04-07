@@ -1,6 +1,6 @@
 from function import analyze
+import config as cfg
 import glob
 
-for filepath in glob.iglob(r'F:\Documents\code\ACM Research\flesch-scores\texts\*.txt'):
+for filepath in glob.iglob(cfg.data["directory"]):
 	analyze(filepath)
-

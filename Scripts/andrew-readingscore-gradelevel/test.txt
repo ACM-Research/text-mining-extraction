@@ -1,7 +1,0 @@
-
-
-
-
-This is a test string with in it.
-This has some * * * in i*t.
-This has [.*?] some [asdfsef asdfasdf] in it.

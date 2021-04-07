@@ -1,8 +1,10 @@
 import textstat
 import re
+import config as cfg
 from pathlib import Path
 
-input_file = Path(r'F:\Documents\code\ACM Research\flesch-scores\texts\fpn-blackford-blackford.txt').read_text(encoding='utf8')
+outF = open('test-output.txt', 'w')
+input_file = Path(cfg.data["test-directory"]).read_text(encoding='utf8')
 input_file = input_file.replace('\n', ' ')
 input_file = input_file.replace('*', '')
 found = re.findall(r'\[(.*?)\]', input_file)
@@ -19,3 +21,4 @@ print('Reading ease is ' + str(textstat.flesch_reading_ease(input_file)))
 print('Score is ' + str(textstat.flesch_kincaid_grade(input_file)))
 print(input_file)
 print(found)
+outF.write(input_file)
