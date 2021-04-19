@@ -1,0 +1,6 @@
+Basic Demographic Data: 
+Race: [118, 29, 3] ['White', 'Black', 'Mixed']
+Gender: [48, 102] ['Female', 'Male']
+Economic Status: [66, 59, 22] ['Upper', 'Middle', 'Lower']
+Military?: [55, 92] ['Yes', 'No']
+Religious?: [21, 126] ['Yes', 'No']
