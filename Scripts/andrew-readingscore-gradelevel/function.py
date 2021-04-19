@@ -9,6 +9,7 @@ def analyze(fileName):
 	input_file = input_file.replace('\n', ' ')
 	input_file = input_file.replace('*', '')
 	found = re.findall(r'\[(.*?)\]', input_file)
+	found.remove('.')
 
 	input_file = input_file.replace('[', '')
 	input_file = input_file.replace(']', '')
@@ -21,4 +22,4 @@ def analyze(fileName):
 	print('Score is ' + str(textstat.flesch_kincaid_grade(input_file)))
 
 	#outF.write(fileName[51:] + ': ' + str(textstat.flesch_reading_ease(input_file)) + ' ' + str(textstat.flesch_kincaid_grade(input_file)) + '\n')
-	outF.write(str(textstat.flesch_reading_ease(input_file)) + ' ' + str(textstat.flesch_kincaid_grade(input_file)) + '\n')
+	outF.write(fileName[94:] + ' ' + str(textstat.flesch_reading_ease(input_file)) + ' ' + str(textstat.flesch_kincaid_grade(input_file)) + '\n')
