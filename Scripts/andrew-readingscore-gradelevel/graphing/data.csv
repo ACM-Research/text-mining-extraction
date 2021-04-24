@@ -1,0 +1,964 @@
+﻿Title,Reading Ease,Grade Level,Dataset
+fpn-andrews-andrews.txt,69.75,10.2,First-Person Narratives of the American South
+fpn-arp-arp.txt,67.62,11,First-Person Narratives of the American South
+fpn-ashby-ashby.txt,56.73,13.1,First-Person Narratives of the American South
+fpn-aughey-aughey.txt,63.32,10.6,First-Person Narratives of the American South
+fpn-avary-avary.txt,71.48,9.5,First-Person Narratives of the American South
+fpn-avirett-avirett.txt,62.45,13,First-Person Narratives of the American South
+fpn-bagby-bagby.txt,73.1,8.9,First-Person Narratives of the American South
+fpn-balch-balch.txt,77.77,7.1,First-Person Narratives of the American South
+fpn-ball-ball.txt,46.41,19.1,First-Person Narratives of the American South
+fpn-battle-lee.txt,67.42,11.1,First-Person Narratives of the American South
+fpn-beard-beard.txt,59.6,14.1,First-Person Narratives of the American South
+fpn-betts-betts.txt,74.69,6.2,First-Person Narratives of the American South
+fpn-biggs-biggs.txt,78.72,8.8,First-Person Narratives of the American South
+fpn-blackford-blackford.txt,80.41,6.1,First-Person Narratives of the American South
+fpn-boggs-boggs.txt,54.46,11.9,First-Person Narratives of the American South
+fpn-bokum-bokum.txt,48.2,16.4,First-Person Narratives of the American South
+fpn-boyd1-boyd1.txt,34.9,21.5,First-Person Narratives of the American South
+fpn-boyd2-boyd2.txt,48.81,16.1,First-Person Narratives of the American South
+fpn-branch-branch.txt,55.92,13.4,First-Person Narratives of the American South
+fpn-brownd-dbrown.txt,43.84,18.1,First-Person Narratives of the American South
+fpn-brownw-brown.txt,67.22,11.1,First-Person Narratives of the American South
+fpn-bruce-bruce.txt,49.42,15.9,First-Person Narratives of the American South
+fpn-bryan-bryan.txt,64.58,12.2,First-Person Narratives of the American South
+fpn-burge-lunt.txt,76.45,7.6,First-Person Narratives of the American South
+fpn-burton-burton.txt,66.3,11.5,First-Person Narratives of the American South
+fpn-burtont-burton.txt,56.42,13.2,First-Person Narratives of the American South
+fpn-burwell-burwell.txt,41.71,18.9,First-Person Narratives of the American South
+fpn-caldwell-caldwell.txt,46.64,14.9,First-Person Narratives of the American South
+fpn-carroll-carroll.txt,69.55,10.2,First-Person Narratives of the American South
+fpn-chapter-chapter.txt,67.32,11.1,First-Person Narratives of the American South
+fpn-clay-clay.txt,54.46,11.9,First-Person Narratives of the American South
+fpn-clinkscales-clinksc.txt,66,11.6,First-Person Narratives of the American South
+fpn-collis-collis.txt,48,16.5,First-Person Narratives of the American South
+fpn-compton-compton.txt,64.68,12.1,First-Person Narratives of the American South
+fpn-copley-copley.txt,49.83,15.8,First-Person Narratives of the American South
+fpn-crumpton-crumpton.txt,70.97,9.7,First-Person Narratives of the American South
+fpn-curry-curry.txt,42.55,14.4,First-Person Narratives of the American South
+fpn-davisr-davis.txt,70.16,10,First-Person Narratives of the American South
+fpn-dawson-dawson.txt,73.51,8.7,First-Person Narratives of the American South
+fpn-desaussure-desaussure.txt,54.6,13.9,First-Person Narratives of the American South
+fpn-dimitry-dimitry.txt,57.74,12.7,First-Person Narratives of the American South
+fpn-dupre-dupre.txt,62.21,11,First-Person Narratives of the American South
+fpn-early-early.txt,37.85,20.4,First-Person Narratives of the American South
+fpn-edmondson-edmondson.txt,77.37,7.2,First-Person Narratives of the American South
+fpn-edwards-edwards.txt,60.79,11.5,First-Person Narratives of the American South
+fpn-eggleston-eggleston.txt,52.16,14.9,First-Person Narratives of the American South
+fpn-fearn-fearn.txt,62.35,13,First-Person Narratives of the American South
+fpn-fee-fee.txt,57.44,12.8,First-Person Narratives of the American South
+fpn-felton-felton.txt,59.47,12,First-Person Narratives of the American South
+fpn-ferebee-ferebee.txt,73.61,8.7,First-Person Narratives of the American South
+fpn-ford-ford.txt,63.77,12.5,First-Person Narratives of the American South
+fpn-gilman-gilman.txt,50.33,15.6,First-Person Narratives of the American South
+fpn-gordon-gordon.txt,47.05,14.7,First-Person Narratives of the American South
+fpn-grandy-grandy.txt,69.75,10.2,First-Person Narratives of the American South
+fpn-green-green.txt,52.57,14.7,First-Person Narratives of the American South
+fpn-greenhow-greenhow.txt,41.06,17,First-Person Narratives of the American South
+fpn-grimball-grimball.txt,60.32,13.8,First-Person Narratives of the American South
+fpn-grimes-grimes.txt,60.69,11.6,First-Person Narratives of the American South
+fpn-hamill-hamill.txt,48.91,16.1,First-Person Narratives of the American South
+fpn-harland-harland.txt,57.84,12.7,First-Person Narratives of the American South
+fpn-harrison-harrison.txt,53.99,14.2,First-Person Narratives of the American South
+fpn-holden-holden.txt,63.73,10.4,First-Person Narratives of the American South
+fpn-hortonlife-horton.txt,51.45,15.1,First-Person Narratives of the American South
+fpn-hortonpoem-hortonpoem.txt,29.26,25.7,First-Person Narratives of the American South
+fpn-houghton-houghton.txt,62.65,12.9,First-Person Narratives of the American South
+fpn-howard-howard.txt,53.58,14.3,First-Person Narratives of the American South
+fpn-hughes-hughes.txt,71.58,9.5,First-Person Narratives of the American South
+fpn-hughest-hughes.txt,45.43,15.4,First-Person Narratives of the American South
+fpn-jackson-jackson.txt,61.74,13.2,First-Person Narratives of the American South
+fpn-jacobs-jacobs.txt,76.35,7.6,First-Person Narratives of the American South
+fpn-janney-janney.txt,34.97,19.4,First-Person Narratives of the American South
+fpn-jervey-jervey.txt,77.16,7.3,First-Person Narratives of the American South
+fpn-johnstond-johnston.txt,55.81,13.4,First-Person Narratives of the American South
+fpn-johnstonr-johnston.txt,61.29,11.3,First-Person Narratives of the American South
+fpn-jones-jones.txt,82.88,7.2,First-Person Narratives of the American South
+fpn-jonescharles-jones.txt,48.17,14.3,First-Person Narratives of the American South
+fpn-kearney-kearney.txt,58.96,12.2,First-Person Narratives of the American South
+fpn-kell-kell.txt,60.48,11.7,First-Person Narratives of the American South
+fpn-lane-lane.txt,63.43,10.5,First-Person Narratives of the American South
+fpn-leconte-leconte.txt,61.29,11.3,First-Person Narratives of the American South
+fpn-leconteemma-leconte.txt,77.77,7.1,First-Person Narratives of the American South
+fpn-leigh-leigh.txt,51.38,17.2,First-Person Narratives of the American South
+fpn-leon-leon.txt,77.06,7.4,First-Person Narratives of the American South
+fpn-lomax-lomax.txt,64.58,12.2,First-Person Narratives of the American South
+fpn-macon-macon.txt,56.42,13.2,First-Person Narratives of the American South
+fpn-mallard-mallard.txt,52.67,14.7,First-Person Narratives of the American South
+fpn-malone-malone.txt,37.01,24.8,First-Person Narratives of the American South
+fpn-mason-mason.txt,73.21,8.8,First-Person Narratives of the American South
+fpn-maury-maury.txt,58.45,12.4,First-Person Narratives of the American South
+fpn-mckim-mckim.txt,56.02,13.4,First-Person Narratives of the American South
+fpn-mcleary-mcleary.txt,76.18,9.8,First-Person Narratives of the American South
+fpn-merrick-merrick.txt,56.83,13.1,First-Person Narratives of the American South
+fpn-mitchel-mitchel.txt,67.22,11.1,First-Person Narratives of the American South
+fpn-montgomery-montgom.txt,49.32,15.9,First-Person Narratives of the American South
+fpn-morgan-morgan.txt,73.92,8.6,First-Person Narratives of the American South
+fpn-morganjames-morgan.txt,53.68,14.3,First-Person Narratives of the American South
+fpn-mosby-mosby.txt,62.51,10.9,First-Person Narratives of the American South
+fpn-moton-moton.txt,56.93,13,First-Person Narratives of the American South
+fpn-negnurse-negnurse.txt,60.82,13.6,First-Person Narratives of the American South
+fpn-negpeon-negpeon.txt,71.48,9.5,First-Person Narratives of the American South
+fpn-northup-northup.txt,60.89,11.5,First-Person Narratives of the American South
+fpn-oconnor-oconnor.txt,55.2,13.7,First-Person Narratives of the American South
+fpn-olive-olive.txt,66.3,11.5,First-Person Narratives of the American South
+fpn-patton-patton.txt,66.91,11.3,First-Person Narratives of the American South
+fpn-paxton-paxton.txt,73.31,8.8,First-Person Narratives of the American South
+fpn-pickens-pickens.txt,57.84,12.7,First-Person Narratives of the American South
+fpn-pickett-pickett.txt,63.66,12.5,First-Person Narratives of the American South
+fpn-plake-plake.txt,67.12,11.2,First-Person Narratives of the American South
+fpn-pringle-pringle.txt,61.74,13.2,First-Person Narratives of the American South
+fpn-pryor-pryor.txt,63.63,10.4,First-Person Narratives of the American South
+fpn-rankin-rankin.txt,74.02,8.5,First-Person Narratives of the American South
+fpn-ripley-ripley.txt,69.65,10.2,First-Person Narratives of the American South
+fpn-ripleyflag-ripley.txt,49.72,15.8,First-Person Narratives of the American South
+fpn-robinson-robinson.txt,65.9,11.6,First-Person Narratives of the American South
+fpn-robson-robson.txt,20.59,27,First-Person Narratives of the American South
+fpn-roper-roper.txt,68.13,10.8,First-Person Narratives of the American South
+fpn-royall-royall.txt,60.08,11.8,First-Person Narratives of the American South
+fpn-sawyer-sawyer.txt,59.26,12.1,First-Person Narratives of the American South
+fpn-saxon-saxon.txt,66.3,11.5,First-Person Narratives of the American South
+fpn-shepherd-shepherd.txt,46.24,15.1,First-Person Narratives of the American South
+fpn-sherrill-sherrill.txt,71.99,9.3,First-Person Narratives of the American South
+fpn-smedes-smedes.txt,72.19,9.2,First-Person Narratives of the American South
+fpn-steward-steward.txt,49.93,15.7,First-Person Narratives of the American South
+fpn-stiles-stiles.txt,42.82,18.4,First-Person Narratives of the American South
+fpn-stone-stone.txt,63.32,10.6,First-Person Narratives of the American South
+fpn-taylor-taylor.txt,50.09,13.6,First-Person Narratives of the American South
+fpn-thomas-thomas.txt,64.48,12.2,First-Person Narratives of the American South
+fpn-velazquez-velazquez.txt,32.67,22.3,First-Person Narratives of the American South
+fpn-veney-veney.txt,64.78,12.1,First-Person Narratives of the American South
+fpn-ward-ward.txt,66.57,9.3,First-Person Narratives of the American South
+fpn-washeducation-washing.txt,49.42,15.9,First-Person Narratives of the American South
+fpn-washington-washing.txt,56.52,13.2,First-Person Narratives of the American South
+fpn-watterson1-watterson1.txt,62.82,10.8,First-Person Narratives of the American South
+fpn-watterson2-watterson2.txt,59.57,12,First-Person Narratives of the American South
+fpn-whitaker-whitaker.txt,68.64,10.6,First-Person Narratives of the American South
+fpn-williams-williams.txt,69.55,10.2,First-Person Narratives of the American South
+fpn-wise-wise.txt,58.45,12.4,First-Person Narratives of the American South
+fpn-wood-wood.txt,61.6,11.2,First-Person Narratives of the American South
+fpn-worsham-worsham.txt,71.99,9.3,First-Person Narratives of the American South
+fpn-wright-wright.txt,62.92,10.7,First-Person Narratives of the American South
+fpn-wrightmarcus-wright.txt,75.2,6,First-Person Narratives of the American South
+fpn-wyeth-wyeth.txt,51.96,14.9,First-Person Narratives of the American South
+fpn-young-young.txt,46.17,17.2,First-Person Narratives of the American South
+fpn-zettler-zettler.txt,64.07,12.3,First-Person Narratives of the American South
+nc-jones85-jones85.txt,75.84,7.8,First-Person Narratives of the American South
+neh-dsmith-dsmith.txt,65.35,9.8,First-Person Narratives of the American South
+neh-jonestom-jones.txt,70.77,9.8,First-Person Narratives of the American South
+neh-roper-roper.txt,63.36,12.6,First-Person Narratives of the American South
+southlit-chesnut-maryches.txt,78.38,6.8,First-Person Narratives of the American South
+southlit-pagesocial-page.txt,58.35,12.5,First-Person Narratives of the American South
+catchingfire.txt,81.93,5.5,Modern Novels
+greatgatsby.txt,55.81,13.4,Modern Novels
+hp1.txt,72.39,9.1,Modern Novels
+hp2.txt,69.55,10.2,Modern Novels
+hp3.txt,70.16,10,Modern Novels
+hp4.txt,70.06,10,Modern Novels
+hp5.txt,62.35,13,Modern Novels
+hp6.txt,53.78,14.2,Modern Novels
+hp7.txt,66.81,11.3,Modern Novels
+hungergames.txt,84.47,4.5,Modern Novels
+lifeofpi.txt,81.63,5.6,Modern Novels
+001.txt,42.28,16.6,BBC Politics Articles
+002.txt,44.37,13.7,BBC Politics Articles
+003.txt,34.12,17.6,BBC Politics Articles
+004.txt,56.93,13,BBC Politics Articles
+005.txt,46.78,16.9,BBC Politics Articles
+006.txt,59.26,12.1,BBC Politics Articles
+007.txt,48.91,16.1,BBC Politics Articles
+008.txt,55,13.8,BBC Politics Articles
+009.txt,56.79,11,BBC Politics Articles
+010.txt,47.22,12.6,BBC Politics Articles
+011.txt,62.61,10.8,BBC Politics Articles
+012.txt,56.18,11.2,BBC Politics Articles
+013.txt,42.18,16.6,BBC Politics Articles
+014.txt,52.02,12.8,BBC Politics Articles
+015.txt,37.64,14.2,BBC Politics Articles
+016.txt,32.09,18.4,BBC Politics Articles
+017.txt,60.18,11.8,BBC Politics Articles
+018.txt,42.75,14.3,BBC Politics Articles
+019.txt,42.79,16.4,BBC Politics Articles
+020.txt,45.22,15.4,BBC Politics Articles
+021.txt,42.89,16.3,BBC Politics Articles
+022.txt,59.67,12,BBC Politics Articles
+023.txt,33.99,15.6,BBC Politics Articles
+024.txt,59.67,12,BBC Politics Articles
+025.txt,41.53,14.8,BBC Politics Articles
+026.txt,56.42,13.2,BBC Politics Articles
+027.txt,43.09,16.3,BBC Politics Articles
+028.txt,57.34,12.9,BBC Politics Articles
+029.txt,44.92,15.6,BBC Politics Articles
+030.txt,48.94,11.9,BBC Politics Articles
+031.txt,42.24,14.5,BBC Politics Articles
+032.txt,55.37,11.5,BBC Politics Articles
+033.txt,51.41,13.1,BBC Politics Articles
+034.txt,60.69,11.6,BBC Politics Articles
+035.txt,42.24,14.5,BBC Politics Articles
+036.txt,46.14,15.1,BBC Politics Articles
+037.txt,47.22,12.6,BBC Politics Articles
+038.txt,40.25,17.4,BBC Politics Articles
+039.txt,48.67,14.1,BBC Politics Articles
+040.txt,44,15.9,BBC Politics Articles
+041.txt,44.98,13.5,BBC Politics Articles
+042.txt,44.71,15.6,BBC Politics Articles
+043.txt,56.12,13.3,BBC Politics Articles
+044.txt,60.14,9.7,BBC Politics Articles
+045.txt,56.83,13.1,BBC Politics Articles
+046.txt,48.77,14.1,BBC Politics Articles
+047.txt,33.35,20,BBC Politics Articles
+048.txt,19.07,21.4,BBC Politics Articles
+049.txt,46.03,15.1,BBC Politics Articles
+050.txt,39.54,17.6,BBC Politics Articles
+051.txt,17.07,24.2,BBC Politics Articles
+052.txt,18.59,23.6,BBC Politics Articles
+053.txt,54.8,13.8,BBC Politics Articles
+054.txt,46.58,17,BBC Politics Articles
+055.txt,37.27,16.4,BBC Politics Articles
+056.txt,40.82,15.1,BBC Politics Articles
+057.txt,46.3,13,BBC Politics Articles
+058.txt,57.34,12.9,BBC Politics Articles
+059.txt,40.45,17.3,BBC Politics Articles
+060.txt,46.21,19.2,BBC Politics Articles
+061.txt,34.56,19.5,BBC Politics Articles
+062.txt,32.64,20.3,BBC Politics Articles
+063.txt,56.02,13.4,BBC Politics Articles
+064.txt,45.02,15.5,BBC Politics Articles
+065.txt,45.63,15.3,BBC Politics Articles
+066.txt,57.03,13,BBC Politics Articles
+067.txt,40.11,15.3,BBC Politics Articles
+068.txt,39.5,15.6,BBC Politics Articles
+069.txt,53.44,12.3,BBC Politics Articles
+070.txt,47.15,14.7,BBC Politics Articles
+071.txt,40.01,15.4,BBC Politics Articles
+072.txt,42.18,16.6,BBC Politics Articles
+073.txt,37.41,18.5,BBC Politics Articles
+074.txt,49.15,11.9,BBC Politics Articles
+075.txt,31.82,20.6,BBC Politics Articles
+076.txt,46.64,14.9,BBC Politics Articles
+077.txt,44.71,15.6,BBC Politics Articles
+078.txt,28.95,19.6,BBC Politics Articles
+079.txt,44.88,13.5,BBC Politics Articles
+080.txt,48.84,12,BBC Politics Articles
+081.txt,46.95,14.8,BBC Politics Articles
+082.txt,49.38,13.8,BBC Politics Articles
+083.txt,59.77,11.9,BBC Politics Articles
+084.txt,51.31,13.1,BBC Politics Articles
+085.txt,35.85,17,BBC Politics Articles
+086.txt,51.11,13.2,BBC Politics Articles
+087.txt,41.77,16.8,BBC Politics Articles
+088.txt,51.62,13,BBC Politics Articles
+089.txt,40.25,17.4,BBC Politics Articles
+090.txt,39.06,13.7,BBC Politics Articles
+091.txt,45.69,13.2,BBC Politics Articles
+092.txt,48.37,14.2,BBC Politics Articles
+093.txt,28.58,21.8,BBC Politics Articles
+094.txt,41.81,18.8,BBC Politics Articles
+095.txt,35.38,19.2,BBC Politics Articles
+096.txt,54.09,14.1,BBC Politics Articles
+097.txt,29.59,21.5,BBC Politics Articles
+098.txt,20.76,24.8,BBC Politics Articles
+099.txt,48.88,14,BBC Politics Articles
+100.txt,61.7,11.2,BBC Politics Articles
+101.txt,51.01,13.2,BBC Politics Articles
+102.txt,60.58,11.6,BBC Politics Articles
+103.txt,25.39,21,BBC Politics Articles
+104.txt,52.63,12.6,BBC Politics Articles
+105.txt,30.47,19,BBC Politics Articles
+106.txt,50.33,15.6,BBC Politics Articles
+107.txt,55.71,13.5,BBC Politics Articles
+108.txt,54.26,12,BBC Politics Articles
+109.txt,38.18,16.1,BBC Politics Articles
+110.txt,53.99,14.2,BBC Politics Articles
+111.txt,53.65,12.2,BBC Politics Articles
+112.txt,55.07,11.7,BBC Politics Articles
+113.txt,73.21,8.8,BBC Politics Articles
+114.txt,42.38,16.5,BBC Politics Articles
+115.txt,47.46,14.6,BBC Politics Articles
+116.txt,41.16,17,BBC Politics Articles
+117.txt,42.52,18.6,BBC Politics Articles
+118.txt,44.71,15.6,BBC Politics Articles
+119.txt,28.78,21.8,BBC Politics Articles
+120.txt,60.08,11.8,BBC Politics Articles
+121.txt,58.35,12.5,BBC Politics Articles
+122.txt,49.83,15.8,BBC Politics Articles
+123.txt,53.04,12.4,BBC Politics Articles
+124.txt,50.03,15.7,BBC Politics Articles
+125.txt,50.7,13.3,BBC Politics Articles
+126.txt,55.68,11.4,BBC Politics Articles
+127.txt,45.73,15.3,BBC Politics Articles
+128.txt,53.04,12.4,BBC Politics Articles
+129.txt,52.23,12.8,BBC Politics Articles
+130.txt,40.25,17.4,BBC Politics Articles
+131.txt,44.21,15.8,BBC Politics Articles
+132.txt,36.25,16.8,BBC Politics Articles
+133.txt,53.75,12.2,BBC Politics Articles
+134.txt,38.02,18.2,BBC Politics Articles
+135.txt,48.37,14.2,BBC Politics Articles
+136.txt,55.61,13.5,BBC Politics Articles
+137.txt,42.79,16.4,BBC Politics Articles
+138.txt,31.08,18.8,BBC Politics Articles
+139.txt,45.12,15.5,BBC Politics Articles
+140.txt,54.86,11.7,BBC Politics Articles
+141.txt,59.06,12.2,BBC Politics Articles
+142.txt,43.9,16,BBC Politics Articles
+143.txt,35.88,19,BBC Politics Articles
+144.txt,56.52,13.2,BBC Politics Articles
+145.txt,56.69,11,BBC Politics Articles
+146.txt,46.85,14.8,BBC Politics Articles
+147.txt,38.42,18.1,BBC Politics Articles
+148.txt,55.88,11.4,BBC Politics Articles
+149.txt,52.12,12.8,BBC Politics Articles
+150.txt,48.98,14,BBC Politics Articles
+151.txt,55.37,11.5,BBC Politics Articles
+152.txt,59.77,11.9,BBC Politics Articles
+153.txt,44.82,15.6,BBC Politics Articles
+154.txt,45.56,17.4,BBC Politics Articles
+155.txt,42.08,16.7,BBC Politics Articles
+156.txt,41.63,14.8,BBC Politics Articles
+157.txt,63.63,10.4,BBC Politics Articles
+158.txt,46.95,14.8,BBC Politics Articles
+159.txt,51.31,13.1,BBC Politics Articles
+160.txt,6.62,28.2,BBC Politics Articles
+161.txt,54.26,12,BBC Politics Articles
+162.txt,45.12,15.5,BBC Politics Articles
+163.txt,37.61,18.4,BBC Politics Articles
+164.txt,62.72,10.8,BBC Politics Articles
+165.txt,56.73,13.1,BBC Politics Articles
+166.txt,58.76,12.3,BBC Politics Articles
+167.txt,5.43,24.5,BBC Politics Articles
+168.txt,33.92,17.7,BBC Politics Articles
+169.txt,37.61,18.4,BBC Politics Articles
+170.txt,52.67,14.7,BBC Politics Articles
+171.txt,56.42,13.2,BBC Politics Articles
+172.txt,14.3,23.2,BBC Politics Articles
+173.txt,54.36,11.9,BBC Politics Articles
+174.txt,40.62,15.1,BBC Politics Articles
+175.txt,36.09,19,BBC Politics Articles
+176.txt,29.05,19.6,BBC Politics Articles
+177.txt,43.66,14,BBC Politics Articles
+178.txt,58.62,10.3,BBC Politics Articles
+179.txt,56.93,13,BBC Politics Articles
+180.txt,48.88,14,BBC Politics Articles
+181.txt,51.01,13.2,BBC Politics Articles
+182.txt,46.24,15.1,BBC Politics Articles
+183.txt,47.22,12.6,BBC Politics Articles
+184.txt,44.31,15.8,BBC Politics Articles
+185.txt,58.05,12.6,BBC Politics Articles
+186.txt,53.38,14.4,BBC Politics Articles
+187.txt,36.9,18.6,BBC Politics Articles
+188.txt,47.01,12.7,BBC Politics Articles
+189.txt,48.27,14.3,BBC Politics Articles
+190.txt,63.53,10.5,BBC Politics Articles
+191.txt,53.28,14.4,BBC Politics Articles
+192.txt,52.83,12.5,BBC Politics Articles
+193.txt,40.15,17.4,BBC Politics Articles
+194.txt,45.32,15.4,BBC Politics Articles
+195.txt,51.14,15.2,BBC Politics Articles
+196.txt,19.34,25.4,BBC Politics Articles
+197.txt,49.28,13.9,BBC Politics Articles
+198.txt,47.56,14.6,BBC Politics Articles
+199.txt,62.01,11.1,BBC Politics Articles
+200.txt,50.6,13.4,BBC Politics Articles
+201.txt,49.28,13.9,BBC Politics Articles
+202.txt,45.77,17.3,BBC Politics Articles
+203.txt,41.67,16.8,BBC Politics Articles
+204.txt,33.51,17.9,BBC Politics Articles
+205.txt,51.62,13,BBC Politics Articles
+206.txt,44.51,15.7,BBC Politics Articles
+207.txt,57.61,10.7,BBC Politics Articles
+208.txt,22.55,22.1,BBC Politics Articles
+209.txt,37.03,14.5,BBC Politics Articles
+210.txt,48.37,14.2,BBC Politics Articles
+211.txt,42.48,16.5,BBC Politics Articles
+212.txt,57.2,10.8,BBC Politics Articles
+213.txt,44,15.9,BBC Politics Articles
+214.txt,39.34,17.7,BBC Politics Articles
+215.txt,45.43,15.4,BBC Politics Articles
+216.txt,52.02,12.8,BBC Politics Articles
+217.txt,45.83,15.2,BBC Politics Articles
+218.txt,53.68,14.3,BBC Politics Articles
+219.txt,34.87,19.4,BBC Politics Articles
+220.txt,41.4,19,BBC Politics Articles
+221.txt,36.86,16.6,BBC Politics Articles
+222.txt,51.01,13.2,BBC Politics Articles
+223.txt,46.21,19.2,BBC Politics Articles
+224.txt,48.37,14.2,BBC Politics Articles
+225.txt,54.09,14.1,BBC Politics Articles
+226.txt,43.46,14.1,BBC Politics Articles
+227.txt,46.44,15,BBC Politics Articles
+228.txt,50.2,13.5,BBC Politics Articles
+229.txt,44.88,13.5,BBC Politics Articles
+230.txt,43.56,14,BBC Politics Articles
+231.txt,35.68,19.1,BBC Politics Articles
+232.txt,37.91,18.3,BBC Politics Articles
+233.txt,31.48,18.7,BBC Politics Articles
+234.txt,45.32,15.4,BBC Politics Articles
+235.txt,28.03,20,BBC Politics Articles
+236.txt,53.04,12.4,BBC Politics Articles
+237.txt,46.3,13,BBC Politics Articles
+238.txt,53.04,12.4,BBC Politics Articles
+239.txt,54.56,11.9,BBC Politics Articles
+240.txt,39.03,17.8,BBC Politics Articles
+241.txt,46.24,15.1,BBC Politics Articles
+242.txt,42.75,14.3,BBC Politics Articles
+243.txt,47.01,12.7,BBC Politics Articles
+244.txt,36.12,14.8,BBC Politics Articles
+245.txt,46.54,14.9,BBC Politics Articles
+246.txt,35.95,16.9,BBC Politics Articles
+247.txt,53.65,12.2,BBC Politics Articles
+249.txt,64.75,10,BBC Politics Articles
+250.txt,68.4,8.6,BBC Politics Articles
+251.txt,50.33,15.6,BBC Politics Articles
+252.txt,23.81,23.7,BBC Politics Articles
+253.txt,53.68,14.3,BBC Politics Articles
+254.txt,50.09,13.6,BBC Politics Articles
+255.txt,45.32,15.4,BBC Politics Articles
+256.txt,53.99,14.2,BBC Politics Articles
+257.txt,50.23,15.6,BBC Politics Articles
+258.txt,51.45,15.1,BBC Politics Articles
+259.txt,48.37,14.2,BBC Politics Articles
+260.txt,55.41,13.6,BBC Politics Articles
+261.txt,62.11,11,BBC Politics Articles
+262.txt,60.89,11.5,BBC Politics Articles
+263.txt,51.41,13.1,BBC Politics Articles
+264.txt,42.08,16.7,BBC Politics Articles
+265.txt,37.98,16.2,BBC Politics Articles
+266.txt,56.22,13.3,BBC Politics Articles
+267.txt,48.37,14.2,BBC Politics Articles
+268.txt,58.15,12.6,BBC Politics Articles
+269.txt,66.17,9.5,BBC Politics Articles
+270.txt,61.4,11.3,BBC Politics Articles
+271.txt,52.67,14.7,BBC Politics Articles
+272.txt,45.73,15.3,BBC Politics Articles
+273.txt,48.37,14.2,BBC Politics Articles
+274.txt,62.92,10.7,BBC Politics Articles
+275.txt,54.19,14.1,BBC Politics Articles
+276.txt,47.05,14.7,BBC Politics Articles
+277.txt,50.5,13.4,BBC Politics Articles
+278.txt,59.06,12.2,BBC Politics Articles
+279.txt,41.97,16.7,BBC Politics Articles
+280.txt,43.29,16.2,BBC Politics Articles
+281.txt,52.97,14.5,BBC Politics Articles
+282.txt,38.73,17.9,BBC Politics Articles
+283.txt,48.88,14,BBC Politics Articles
+284.txt,43.63,18.1,BBC Politics Articles
+285.txt,59.77,11.9,BBC Politics Articles
+286.txt,50.6,13.4,BBC Politics Articles
+287.txt,42.52,18.6,BBC Politics Articles
+288.txt,47.46,14.6,BBC Politics Articles
+289.txt,49.38,13.8,BBC Politics Articles
+290.txt,57,10.9,BBC Politics Articles
+291.txt,54.26,12,BBC Politics Articles
+292.txt,61.4,11.3,BBC Politics Articles
+293.txt,60.89,11.5,BBC Politics Articles
+294.txt,46.54,14.9,BBC Politics Articles
+295.txt,66,11.6,BBC Politics Articles
+296.txt,53.78,14.2,BBC Politics Articles
+297.txt,19.14,25.5,BBC Politics Articles
+298.txt,40.45,17.3,BBC Politics Articles
+299.txt,46.95,14.8,BBC Politics Articles
+300.txt,59.06,12.2,BBC Politics Articles
+301.txt,50.54,15.5,BBC Politics Articles
+302.txt,53.99,14.2,BBC Politics Articles
+303.txt,45.93,15.2,BBC Politics Articles
+304.txt,62.51,10.9,BBC Politics Articles
+305.txt,47.86,14.4,BBC Politics Articles
+306.txt,40.79,19.2,BBC Politics Articles
+307.txt,48.37,14.2,BBC Politics Articles
+308.txt,65.96,9.5,BBC Politics Articles
+309.txt,41.16,17,BBC Politics Articles
+310.txt,53.04,12.4,BBC Politics Articles
+311.txt,53.44,12.3,BBC Politics Articles
+312.txt,53.85,12.1,BBC Politics Articles
+313.txt,45.63,15.3,BBC Politics Articles
+314.txt,57.13,12.9,BBC Politics Articles
+315.txt,36.12,21,BBC Politics Articles
+316.txt,53.75,12.2,BBC Politics Articles
+317.txt,60.58,11.6,BBC Politics Articles
+318.txt,34.43,17.5,BBC Politics Articles
+319.txt,58.35,12.5,BBC Politics Articles
+320.txt,54.15,12,BBC Politics Articles
+321.txt,45.83,15.2,BBC Politics Articles
+322.txt,56.89,11,BBC Politics Articles
+323.txt,52.43,12.7,BBC Politics Articles
+324.txt,25.7,20.9,BBC Politics Articles
+325.txt,52.77,14.6,BBC Politics Articles
+326.txt,52.02,12.8,BBC Politics Articles
+327.txt,35.68,19.1,BBC Politics Articles
+328.txt,40.35,17.3,BBC Politics Articles
+329.txt,57,10.9,BBC Politics Articles
+330.txt,48.37,14.2,BBC Politics Articles
+331.txt,46.74,14.9,BBC Politics Articles
+332.txt,46.07,17.2,BBC Politics Articles
+333.txt,62.61,10.8,BBC Politics Articles
+334.txt,44.41,15.8,BBC Politics Articles
+335.txt,48.61,16.2,BBC Politics Articles
+336.txt,65.69,11.7,BBC Politics Articles
+337.txt,43.6,16.1,BBC Politics Articles
+338.txt,40.25,17.4,BBC Politics Articles
+339.txt,57.44,12.8,BBC Politics Articles
+340.txt,49.38,13.8,BBC Politics Articles
+341.txt,46.21,19.2,BBC Politics Articles
+342.txt,55.71,13.5,BBC Politics Articles
+343.txt,53.04,12.4,BBC Politics Articles
+344.txt,48.81,16.1,BBC Politics Articles
+345.txt,52.87,14.6,BBC Politics Articles
+346.txt,55.2,13.7,BBC Politics Articles
+347.txt,30.27,19.1,BBC Politics Articles
+348.txt,28,24.1,BBC Politics Articles
+349.txt,25.84,22.9,BBC Politics Articles
+350.txt,51.21,13.1,BBC Politics Articles
+351.txt,48.91,16.1,BBC Politics Articles
+352.txt,41.97,16.7,BBC Politics Articles
+353.txt,54.9,13.8,BBC Politics Articles
+354.txt,43.6,16.1,BBC Politics Articles
+355.txt,63.43,10.5,BBC Politics Articles
+356.txt,42.89,16.3,BBC Politics Articles
+357.txt,42.34,14.5,BBC Politics Articles
+358.txt,44.82,15.6,BBC Politics Articles
+359.txt,46.78,16.9,BBC Politics Articles
+360.txt,49.32,15.9,BBC Politics Articles
+361.txt,38.83,17.9,BBC Politics Articles
+362.txt,40.86,17.1,BBC Politics Articles
+363.txt,45.93,15.2,BBC Politics Articles
+364.txt,42.11,18.7,BBC Politics Articles
+365.txt,58.08,14.6,BBC Politics Articles
+366.txt,46.64,14.9,BBC Politics Articles
+367.txt,53.89,14.2,BBC Politics Articles
+368.txt,17.21,26.2,BBC Politics Articles
+369.txt,30.98,18.9,BBC Politics Articles
+370.txt,30.06,19.2,BBC Politics Articles
+371.txt,33.14,20.1,BBC Politics Articles
+372.txt,38.39,16,BBC Politics Articles
+373.txt,45.73,15.3,BBC Politics Articles
+374.txt,43.4,16.2,BBC Politics Articles
+375.txt,58.45,12.4,BBC Politics Articles
+376.txt,54.76,11.8,BBC Politics Articles
+377.txt,36.97,16.6,BBC Politics Articles
+378.txt,44,15.9,BBC Politics Articles
+379.txt,46.2,13,BBC Politics Articles
+380.txt,57.13,12.9,BBC Politics Articles
+381.txt,58.21,10.5,BBC Politics Articles
+382.txt,61.19,11.4,BBC Politics Articles
+383.txt,49.28,13.9,BBC Politics Articles
+384.txt,46.14,15.1,BBC Politics Articles
+385.txt,36.56,16.7,BBC Politics Articles
+386.txt,53.95,12.1,BBC Politics Articles
+387.txt,53.68,14.3,BBC Politics Articles
+388.txt,47.66,14.5,BBC Politics Articles
+389.txt,40.25,17.4,BBC Politics Articles
+390.txt,38.39,16,BBC Politics Articles
+391.txt,57.1,10.9,BBC Politics Articles
+392.txt,53.14,12.4,BBC Politics Articles
+393.txt,43.7,16,BBC Politics Articles
+394.txt,46.34,15,BBC Politics Articles
+395.txt,54.6,13.9,BBC Politics Articles
+396.txt,43.29,16.2,BBC Politics Articles
+397.txt,58.96,12.2,BBC Politics Articles
+398.txt,50.03,15.7,BBC Politics Articles
+399.txt,41.33,14.9,BBC Politics Articles
+400.txt,56.63,13.1,BBC Politics Articles
+401.txt,50.84,15.4,BBC Politics Articles
+402.txt,63.22,10.6,BBC Politics Articles
+403.txt,51.14,15.2,BBC Politics Articles
+404.txt,50.91,13.3,BBC Politics Articles
+405.txt,51.35,15.2,BBC Politics Articles
+406.txt,44.92,15.6,BBC Politics Articles
+407.txt,28.98,21.7,BBC Politics Articles
+408.txt,50.33,15.6,BBC Politics Articles
+409.txt,52.43,12.7,BBC Politics Articles
+410.txt,49.86,11.6,BBC Politics Articles
+411.txt,55.41,13.6,BBC Politics Articles
+412.txt,57.34,12.9,BBC Politics Articles
+413.txt,47.46,14.6,BBC Politics Articles
+414.txt,49.42,15.9,BBC Politics Articles
+415.txt,56.02,13.4,BBC Politics Articles
+416.txt,43.5,16.1,BBC Politics Articles
+417.txt,47.96,14.4,BBC Politics Articles
+001.txt,67.28,9,BBC Entertainment Articles
+002.txt,43.46,14.1,BBC Entertainment Articles
+003.txt,61.09,11.4,BBC Entertainment Articles
+004.txt,57.95,12.6,BBC Entertainment Articles
+005.txt,46,13.1,BBC Entertainment Articles
+006.txt,47.46,14.6,BBC Entertainment Articles
+007.txt,54.36,11.9,BBC Entertainment Articles
+008.txt,46.54,14.9,BBC Entertainment Articles
+009.txt,42.68,16.4,BBC Entertainment Articles
+010.txt,19,23.5,BBC Entertainment Articles
+011.txt,72.6,9.1,BBC Entertainment Articles
+012.txt,59.47,12,BBC Entertainment Articles
+013.txt,54.56,11.9,BBC Entertainment Articles
+014.txt,58.55,12.4,BBC Entertainment Articles
+015.txt,28.13,19.9,BBC Entertainment Articles
+016.txt,59.53,9.9,BBC Entertainment Articles
+017.txt,48.88,14,BBC Entertainment Articles
+018.txt,47.35,14.6,BBC Entertainment Articles
+019.txt,66.78,9.2,BBC Entertainment Articles
+020.txt,60.58,11.6,BBC Entertainment Articles
+021.txt,60.14,9.7,BBC Entertainment Articles
+022.txt,38.46,20.1,BBC Entertainment Articles
+023.txt,42.65,14.4,BBC Entertainment Articles
+024.txt,56.39,11.2,BBC Entertainment Articles
+025.txt,58.55,12.4,BBC Entertainment Articles
+026.txt,43.29,16.2,BBC Entertainment Articles
+027.txt,58.55,12.4,BBC Entertainment Articles
+028.txt,21.33,22.6,BBC Entertainment Articles
+029.txt,58.55,12.4,BBC Entertainment Articles
+030.txt,54.76,11.8,BBC Entertainment Articles
+031.txt,64.85,10,BBC Entertainment Articles
+032.txt,41.63,14.8,BBC Entertainment Articles
+033.txt,60.69,11.6,BBC Entertainment Articles
+034.txt,59.98,11.8,BBC Entertainment Articles
+035.txt,42.24,14.5,BBC Entertainment Articles
+036.txt,58.86,12.3,BBC Entertainment Articles
+037.txt,56.39,11.2,BBC Entertainment Articles
+038.txt,44.31,15.8,BBC Entertainment Articles
+039.txt,48.17,14.3,BBC Entertainment Articles
+040.txt,53.55,12.3,BBC Entertainment Articles
+041.txt,49.49,13.8,BBC Entertainment Articles
+042.txt,39.71,15.5,BBC Entertainment Articles
+043.txt,41.1,19.1,BBC Entertainment Articles
+044.txt,63.32,10.6,BBC Entertainment Articles
+045.txt,54.66,11.8,BBC Entertainment Articles
+046.txt,64.34,10.2,BBC Entertainment Articles
+047.txt,48.13,12.3,BBC Entertainment Articles
+048.txt,34.63,17.4,BBC Entertainment Articles
+049.txt,61.09,11.4,BBC Entertainment Articles
+050.txt,52.94,12.5,BBC Entertainment Articles
+051.txt,52.53,12.6,BBC Entertainment Articles
+052.txt,45.63,15.3,BBC Entertainment Articles
+053.txt,42.48,16.5,BBC Entertainment Articles
+054.txt,64.07,12.3,BBC Entertainment Articles
+055.txt,62.01,11.1,BBC Entertainment Articles
+056.txt,50.7,13.3,BBC Entertainment Articles
+057.txt,57.91,10.6,BBC Entertainment Articles
+058.txt,42.18,16.6,BBC Entertainment Articles
+059.txt,31.96,22.6,BBC Entertainment Articles
+060.txt,66.27,9.4,BBC Entertainment Articles
+061.txt,32.16,22.5,BBC Entertainment Articles
+062.txt,57.1,10.9,BBC Entertainment Articles
+063.txt,51.21,13.1,BBC Entertainment Articles
+064.txt,57.34,12.9,BBC Entertainment Articles
+065.txt,45.9,13.1,BBC Entertainment Articles
+066.txt,54.05,12.1,BBC Entertainment Articles
+067.txt,54.76,11.8,BBC Entertainment Articles
+068.txt,54.76,11.8,BBC Entertainment Articles
+069.txt,52.53,12.6,BBC Entertainment Articles
+070.txt,33.17,15.9,BBC Entertainment Articles
+071.txt,49.15,18.1,BBC Entertainment Articles
+072.txt,43.19,16.2,BBC Entertainment Articles
+073.txt,53.95,12.1,BBC Entertainment Articles
+074.txt,57.1,10.9,BBC Entertainment Articles
+075.txt,40.21,15.3,BBC Entertainment Articles
+076.txt,52.53,12.6,BBC Entertainment Articles
+077.txt,66.17,9.5,BBC Entertainment Articles
+078.txt,46.64,14.9,BBC Entertainment Articles
+079.txt,64.64,10.1,BBC Entertainment Articles
+080.txt,48.47,14.2,BBC Entertainment Articles
+081.txt,40.35,17.3,BBC Entertainment Articles
+082.txt,48.17,14.3,BBC Entertainment Articles
+083.txt,54.05,12.1,BBC Entertainment Articles
+084.txt,52.63,12.6,BBC Entertainment Articles
+085.txt,55.27,11.6,BBC Entertainment Articles
+086.txt,58.96,12.2,BBC Entertainment Articles
+087.txt,58.11,10.5,BBC Entertainment Articles
+088.txt,57.1,10.9,BBC Entertainment Articles
+089.txt,53.55,12.3,BBC Entertainment Articles
+090.txt,52.63,12.6,BBC Entertainment Articles
+091.txt,47.32,12.6,BBC Entertainment Articles
+092.txt,59.64,9.9,BBC Entertainment Articles
+093.txt,55.88,11.4,BBC Entertainment Articles
+094.txt,42.48,16.5,BBC Entertainment Articles
+095.txt,48.57,14.2,BBC Entertainment Articles
+096.txt,54.97,11.7,BBC Entertainment Articles
+097.txt,45.73,15.3,BBC Entertainment Articles
+098.txt,48.94,11.9,BBC Entertainment Articles
+099.txt,51.11,13.2,BBC Entertainment Articles
+100.txt,60.28,11.7,BBC Entertainment Articles
+101.txt,29.32,17.4,BBC Entertainment Articles
+102.txt,53.04,12.4,BBC Entertainment Articles
+103.txt,44.92,15.6,BBC Entertainment Articles
+104.txt,53.17,14.5,BBC Entertainment Articles
+105.txt,71.38,9.5,BBC Entertainment Articles
+106.txt,70.02,8,BBC Entertainment Articles
+107.txt,61.29,11.3,BBC Entertainment Articles
+108.txt,50.2,13.5,BBC Entertainment Articles
+109.txt,65.49,11.8,BBC Entertainment Articles
+110.txt,58.32,10.4,BBC Entertainment Articles
+111.txt,66.67,9.3,BBC Entertainment Articles
+112.txt,73.92,8.6,BBC Entertainment Articles
+113.txt,58.45,12.4,BBC Entertainment Articles
+114.txt,57,10.9,BBC Entertainment Articles
+115.txt,59.16,12.2,BBC Entertainment Articles
+116.txt,59.06,12.2,BBC Entertainment Articles
+117.txt,60.08,11.8,BBC Entertainment Articles
+118.txt,73.21,8.8,BBC Entertainment Articles
+119.txt,62.01,11.1,BBC Entertainment Articles
+120.txt,62.82,10.8,BBC Entertainment Articles
+121.txt,50.43,15.5,BBC Entertainment Articles
+122.txt,27.29,24.4,BBC Entertainment Articles
+123.txt,53.65,12.2,BBC Entertainment Articles
+124.txt,59.06,12.2,BBC Entertainment Articles
+125.txt,58.15,12.6,BBC Entertainment Articles
+126.txt,63.06,12.7,BBC Entertainment Articles
+127.txt,44.92,15.6,BBC Entertainment Articles
+128.txt,62.01,11.1,BBC Entertainment Articles
+129.txt,60.28,11.7,BBC Entertainment Articles
+130.txt,60.72,13.6,BBC Entertainment Articles
+131.txt,45.63,15.3,BBC Entertainment Articles
+132.txt,46.98,16.8,BBC Entertainment Articles
+133.txt,51.31,13.1,BBC Entertainment Articles
+134.txt,50.84,15.4,BBC Entertainment Articles
+135.txt,57.84,12.7,BBC Entertainment Articles
+136.txt,41.91,18.8,BBC Entertainment Articles
+137.txt,55.1,13.7,BBC Entertainment Articles
+138.txt,58.79,14.4,BBC Entertainment Articles
+139.txt,64.14,10.3,BBC Entertainment Articles
+140.txt,55.61,13.5,BBC Entertainment Articles
+141.txt,66.41,11.5,BBC Entertainment Articles
+142.txt,50.94,15.3,BBC Entertainment Articles
+143.txt,57.95,12.6,BBC Entertainment Articles
+144.txt,72.39,9.1,BBC Entertainment Articles
+145.txt,51.31,13.1,BBC Entertainment Articles
+146.txt,65.76,9.6,BBC Entertainment Articles
+147.txt,49.08,14,BBC Entertainment Articles
+148.txt,28.74,19.7,BBC Entertainment Articles
+149.txt,43.6,16.1,BBC Entertainment Articles
+150.txt,48.47,14.2,BBC Entertainment Articles
+151.txt,64.58,12.2,BBC Entertainment Articles
+152.txt,59.77,11.9,BBC Entertainment Articles
+153.txt,58.45,12.4,BBC Entertainment Articles
+154.txt,63.73,10.4,BBC Entertainment Articles
+155.txt,67.18,9.1,BBC Entertainment Articles
+156.txt,63.63,10.4,BBC Entertainment Articles
+157.txt,72.5,9.1,BBC Entertainment Articles
+158.txt,58.79,14.4,BBC Entertainment Articles
+159.txt,70.57,9.9,BBC Entertainment Articles
+160.txt,67.83,10.9,BBC Entertainment Articles
+161.txt,58.05,12.6,BBC Entertainment Articles
+162.txt,59.47,12,BBC Entertainment Articles
+163.txt,57.64,12.7,BBC Entertainment Articles
+164.txt,47.46,14.6,BBC Entertainment Articles
+165.txt,46.71,12.8,BBC Entertainment Articles
+166.txt,42.45,14.4,BBC Entertainment Articles
+167.txt,62.14,13.1,BBC Entertainment Articles
+168.txt,32.09,18.4,BBC Entertainment Articles
+169.txt,71.18,9.6,BBC Entertainment Articles
+170.txt,54.46,11.9,BBC Entertainment Articles
+171.txt,44.37,13.7,BBC Entertainment Articles
+172.txt,42.95,14.2,BBC Entertainment Articles
+173.txt,30.67,19,BBC Entertainment Articles
+174.txt,56.42,13.2,BBC Entertainment Articles
+175.txt,57.64,12.7,BBC Entertainment Articles
+176.txt,60.69,11.6,BBC Entertainment Articles
+177.txt,61.19,11.4,BBC Entertainment Articles
+178.txt,59.06,12.2,BBC Entertainment Articles
+179.txt,47.46,14.6,BBC Entertainment Articles
+180.txt,61.77,9.1,BBC Entertainment Articles
+181.txt,68.03,10.8,BBC Entertainment Articles
+182.txt,59.87,11.9,BBC Entertainment Articles
+183.txt,60.79,11.5,BBC Entertainment Articles
+184.txt,57.54,12.8,BBC Entertainment Articles
+185.txt,46.14,15.1,BBC Entertainment Articles
+186.txt,39.34,17.7,BBC Entertainment Articles
+187.txt,64.24,10.2,BBC Entertainment Articles
+188.txt,63.83,10.4,BBC Entertainment Articles
+189.txt,52.94,12.5,BBC Entertainment Articles
+190.txt,59.26,12.1,BBC Entertainment Articles
+191.txt,47.56,14.6,BBC Entertainment Articles
+192.txt,33.38,22.1,BBC Entertainment Articles
+193.txt,32.3,18.3,BBC Entertainment Articles
+194.txt,24.24,19.4,BBC Entertainment Articles
+195.txt,47.76,14.5,BBC Entertainment Articles
+196.txt,64.54,10.1,BBC Entertainment Articles
+197.txt,59.87,11.9,BBC Entertainment Articles
+198.txt,54.66,11.8,BBC Entertainment Articles
+199.txt,50.16,11.5,BBC Entertainment Articles
+200.txt,57.71,10.7,BBC Entertainment Articles
+201.txt,51.21,13.1,BBC Entertainment Articles
+202.txt,42.38,16.5,BBC Entertainment Articles
+203.txt,46.34,15,BBC Entertainment Articles
+204.txt,52.63,12.6,BBC Entertainment Articles
+205.txt,59.06,12.2,BBC Entertainment Articles
+206.txt,56.22,13.3,BBC Entertainment Articles
+207.txt,62.51,10.9,BBC Entertainment Articles
+208.txt,59.47,12,BBC Entertainment Articles
+209.txt,71.18,9.6,BBC Entertainment Articles
+210.txt,57.3,10.8,BBC Entertainment Articles
+211.txt,52.73,12.6,BBC Entertainment Articles
+212.txt,44.41,15.8,BBC Entertainment Articles
+213.txt,45.83,15.2,BBC Entertainment Articles
+214.txt,43.9,16,BBC Entertainment Articles
+215.txt,56.83,13.1,BBC Entertainment Articles
+216.txt,47.46,14.6,BBC Entertainment Articles
+217.txt,63.22,10.6,BBC Entertainment Articles
+218.txt,46.2,13,BBC Entertainment Articles
+219.txt,54.36,11.9,BBC Entertainment Articles
+220.txt,44.48,13.7,BBC Entertainment Articles
+221.txt,38.73,17.9,BBC Entertainment Articles
+222.txt,51.01,13.2,BBC Entertainment Articles
+223.txt,48.06,14.4,BBC Entertainment Articles
+224.txt,62.72,10.8,BBC Entertainment Articles
+225.txt,59.77,11.9,BBC Entertainment Articles
+226.txt,64.24,10.2,BBC Entertainment Articles
+227.txt,60.99,11.5,BBC Entertainment Articles
+228.txt,46.48,17,BBC Entertainment Articles
+229.txt,53.28,14.4,BBC Entertainment Articles
+230.txt,72.7,9,BBC Entertainment Articles
+231.txt,56.63,13.1,BBC Entertainment Articles
+232.txt,59.57,12,BBC Entertainment Articles
+233.txt,53.95,12.1,BBC Entertainment Articles
+234.txt,62.21,11,BBC Entertainment Articles
+235.txt,71.38,9.5,BBC Entertainment Articles
+236.txt,56.93,13,BBC Entertainment Articles
+237.txt,64.38,12.2,BBC Entertainment Articles
+238.txt,53.85,12.1,BBC Entertainment Articles
+239.txt,52.23,12.8,BBC Entertainment Articles
+240.txt,57.03,13,BBC Entertainment Articles
+241.txt,49.79,13.7,BBC Entertainment Articles
+242.txt,63.56,12.5,BBC Entertainment Articles
+243.txt,63.93,10.3,BBC Entertainment Articles
+244.txt,44,15.9,BBC Entertainment Articles
+245.txt,17.72,26,BBC Entertainment Articles
+246.txt,51.21,13.1,BBC Entertainment Articles
+247.txt,54.8,13.8,BBC Entertainment Articles
+248.txt,41.06,17,BBC Entertainment Articles
+249.txt,55.88,11.4,BBC Entertainment Articles
+250.txt,59.47,12,BBC Entertainment Articles
+251.txt,65.86,9.6,BBC Entertainment Articles
+252.txt,55.27,11.6,BBC Entertainment Articles
+253.txt,66.07,9.5,BBC Entertainment Articles
+254.txt,60.08,11.8,BBC Entertainment Articles
+255.txt,48.2,16.4,BBC Entertainment Articles
+256.txt,65.66,9.7,BBC Entertainment Articles
+257.txt,62.21,11,BBC Entertainment Articles
+258.txt,53.44,12.3,BBC Entertainment Articles
+259.txt,48.4,16.3,BBC Entertainment Articles
+260.txt,59.23,10.1,BBC Entertainment Articles
+261.txt,60.28,11.7,BBC Entertainment Articles
+262.txt,57.54,12.8,BBC Entertainment Articles
+263.txt,46.17,17.2,BBC Entertainment Articles
+264.txt,62.21,11,BBC Entertainment Articles
+265.txt,56.29,11.2,BBC Entertainment Articles
+266.txt,40.72,15.1,BBC Entertainment Articles
+267.txt,58.18,14.6,BBC Entertainment Articles
+268.txt,65.66,9.7,BBC Entertainment Articles
+269.txt,59.3,14.2,BBC Entertainment Articles
+270.txt,57.5,10.7,BBC Entertainment Articles
+271.txt,32.23,20.4,BBC Entertainment Articles
+272.txt,61.09,11.4,BBC Entertainment Articles
+273.txt,42.65,14.4,BBC Entertainment Articles
+274.txt,37.31,18.5,BBC Entertainment Articles
+275.txt,22.76,22,BBC Entertainment Articles
+276.txt,64.44,10.1,BBC Entertainment Articles
+277.txt,53.44,12.3,BBC Entertainment Articles
+278.txt,49.59,13.8,BBC Entertainment Articles
+279.txt,60.11,13.9,BBC Entertainment Articles
+280.txt,51.65,15,BBC Entertainment Articles
+281.txt,40.08,19.5,BBC Entertainment Articles
+282.txt,53.78,14.2,BBC Entertainment Articles
+283.txt,50.91,13.3,BBC Entertainment Articles
+284.txt,27.39,24.4,BBC Entertainment Articles
+285.txt,56.46,15.3,BBC Entertainment Articles
+286.txt,65.25,9.8,BBC Entertainment Articles
+287.txt,61.4,11.3,BBC Entertainment Articles
+288.txt,56.56,15.2,BBC Entertainment Articles
+289.txt,32.74,20.2,BBC Entertainment Articles
+290.txt,42.92,18.4,BBC Entertainment Articles
+291.txt,19.68,27.3,BBC Entertainment Articles
+292.txt,53.04,12.4,BBC Entertainment Articles
+293.txt,64.54,10.1,BBC Entertainment Articles
+294.txt,45.93,15.2,BBC Entertainment Articles
+295.txt,60.38,11.7,BBC Entertainment Articles
+296.txt,68.74,10.6,BBC Entertainment Articles
+297.txt,57.95,12.6,BBC Entertainment Articles
+298.txt,53.14,12.4,BBC Entertainment Articles
+299.txt,53.48,14.3,BBC Entertainment Articles
+300.txt,44.31,15.8,BBC Entertainment Articles
+301.txt,51.82,12.9,BBC Entertainment Articles
+302.txt,71.78,9.4,BBC Entertainment Articles
+303.txt,44.21,15.8,BBC Entertainment Articles
+304.txt,66.81,11.3,BBC Entertainment Articles
+305.txt,60.55,9.6,BBC Entertainment Articles
+306.txt,37.81,18.3,BBC Entertainment Articles
+307.txt,58.86,12.3,BBC Entertainment Articles
+308.txt,54.76,11.8,BBC Entertainment Articles
+309.txt,46.85,14.8,BBC Entertainment Articles
+310.txt,62.92,10.7,BBC Entertainment Articles
+311.txt,43.5,16.1,BBC Entertainment Articles
+312.txt,62.21,11,BBC Entertainment Articles
+313.txt,34.53,17.5,BBC Entertainment Articles
+314.txt,63.43,10.5,BBC Entertainment Articles
+315.txt,58.76,12.3,BBC Entertainment Articles
+316.txt,52.33,12.7,BBC Entertainment Articles
+317.txt,44.75,17.7,BBC Entertainment Articles
+318.txt,65.05,9.9,BBC Entertainment Articles
+319.txt,54.05,12.1,BBC Entertainment Articles
+320.txt,46.71,12.8,BBC Entertainment Articles
+321.txt,42.58,16.5,BBC Entertainment Articles
+322.txt,61.29,11.3,BBC Entertainment Articles
+323.txt,49.79,13.7,BBC Entertainment Articles
+324.txt,52.23,12.8,BBC Entertainment Articles
+325.txt,48.06,14.4,BBC Entertainment Articles
+326.txt,42.68,16.4,BBC Entertainment Articles
+327.txt,28.13,19.9,BBC Entertainment Articles
+328.txt,58.96,12.2,BBC Entertainment Articles
+329.txt,58.01,10.5,BBC Entertainment Articles
+330.txt,56.22,13.3,BBC Entertainment Articles
+331.txt,65.46,9.7,BBC Entertainment Articles
+332.txt,49.65,11.7,BBC Entertainment Articles
+333.txt,61.23,13.4,BBC Entertainment Articles
+334.txt,54.97,11.7,BBC Entertainment Articles
+335.txt,61.09,11.4,BBC Entertainment Articles
+336.txt,51.92,12.9,BBC Entertainment Articles
+337.txt,37.88,16.2,BBC Entertainment Articles
+338.txt,64.34,10.2,BBC Entertainment Articles
+339.txt,59.1,14.3,BBC Entertainment Articles
+340.txt,61.6,11.2,BBC Entertainment Articles
+341.txt,53.04,12.4,BBC Entertainment Articles
+342.txt,47.76,14.5,BBC Entertainment Articles
+343.txt,66.47,9.4,BBC Entertainment Articles
+344.txt,60.69,11.6,BBC Entertainment Articles
+345.txt,47.56,14.6,BBC Entertainment Articles
+346.txt,64.44,10.1,BBC Entertainment Articles
+347.txt,64.24,10.2,BBC Entertainment Articles
+348.txt,42.18,16.6,BBC Entertainment Articles
+349.txt,65.96,9.5,BBC Entertainment Articles
+350.txt,53.95,12.1,BBC Entertainment Articles
+351.txt,50.91,13.3,BBC Entertainment Articles
+352.txt,39.27,19.8,BBC Entertainment Articles
+353.txt,62.21,11,BBC Entertainment Articles
+354.txt,58.25,12.5,BBC Entertainment Articles
+355.txt,56.52,13.2,BBC Entertainment Articles
+356.txt,41.1,19.1,BBC Entertainment Articles
+357.txt,60.89,11.5,BBC Entertainment Articles
+358.txt,57.57,14.8,BBC Entertainment Articles
+359.txt,65.9,11.6,BBC Entertainment Articles
+360.txt,67.99,8.8,BBC Entertainment Articles
+361.txt,49.38,13.8,BBC Entertainment Articles
+362.txt,63.53,10.5,BBC Entertainment Articles
+363.txt,53.68,14.3,BBC Entertainment Articles
+364.txt,48.4,16.3,BBC Entertainment Articles
+365.txt,57.95,12.6,BBC Entertainment Articles
+366.txt,55.07,11.7,BBC Entertainment Articles
+367.txt,33.96,19.8,BBC Entertainment Articles
+368.txt,22.38,24.2,BBC Entertainment Articles
+369.txt,51.25,15.2,BBC Entertainment Articles
+370.txt,48.64,12.1,BBC Entertainment Articles
+371.txt,40.35,17.3,BBC Entertainment Articles
+372.txt,63.02,10.7,BBC Entertainment Articles
+373.txt,52.23,12.8,BBC Entertainment Articles
+374.txt,51.92,12.9,BBC Entertainment Articles
+375.txt,53.99,14.2,BBC Entertainment Articles
+376.txt,56.22,13.3,BBC Entertainment Articles
+377.txt,50.2,13.5,BBC Entertainment Articles
+378.txt,47.15,14.7,BBC Entertainment Articles
+379.txt,57.91,10.6,BBC Entertainment Articles
+380.txt,60.38,11.7,BBC Entertainment Articles
+381.txt,53.04,12.4,BBC Entertainment Articles
+382.txt,55.92,13.4,BBC Entertainment Articles
+383.txt,43.33,18.2,BBC Entertainment Articles
+384.txt,54.09,14.1,BBC Entertainment Articles
+385.txt,55.61,13.5,BBC Entertainment Articles
+386.txt,50.09,13.6,BBC Entertainment Articles
