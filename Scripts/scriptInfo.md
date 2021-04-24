@@ -23,3 +23,5 @@ This is info about each script in this folder.
 - [BBC News Collection](https://www.kaggle.com/pariza/bbc-news-summary)
 
 ***
+## N-Grams and Wordcloud Generation
+This script processes a directory of .txt files and performs various N-Gram calculations on them.
