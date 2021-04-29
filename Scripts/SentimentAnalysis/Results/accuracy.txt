@@ -1,0 +1,13 @@
+Annotation Polarity: [196, 132, 200, 71, 1]
+Annotation Subjectivity: [25, 548, 26, 1]
+
+Ann Pol: [49, 33, 50] (17.75,0.25)
+Ann Sub: [6.25, 132] (6.5,0.25)
+
+Gen Pol: [[116, 13, 20]
+Gen Sub: [149, 0]]
+
+Top Pol: [[121, 28, 0]
+Top Sub: [141, 8]]
+
+There were 72 polarity scores are were either marked 'N/A' or anomaly, and 27 for subjectivity.
