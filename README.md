@@ -7,7 +7,12 @@ The purpose of this project is to learn more about civilians’ perspectives dur
 
 ## Data
 
+
+
 ## Methods
+
+### Flesch Reading Ease
+- This script processes a directory of .txt files and uses the textstat library to calculate the Flesch Reading Ease score for each document. A separate script processes .csv files of the scores and generates a box plot. The other libraries and datasets used can be seen in the readme in the scripts subfolder.
 
 ## Results
 
