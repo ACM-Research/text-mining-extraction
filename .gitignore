@@ -1,5 +1,7 @@
-/Scripts/andrew-readingscore-gradelevel/__pycache__
-/Scripts/andrew-readingscore-gradelevel/env
-Scripts/andrew-readingscore-gradelevel/config.py
-Scripts/andrew-readingscore-gradelevel/test-output.txt
-Scripts/andrew-readingscore-gradelevel/naslave-texts
+/Scripts/ReadingEase/__pycache__
+/Scripts/ReadingEase/env
+/Scripts/ReadingEase/config.py
+/Scripts/ReadingEase/test-output.txt
+/Scripts/ReadingEase/naslave-texts
+/Scripts/ReadingEase/test.py
+/Scripts/ReadingEase/data.xlsx
