@@ -20,3 +20,5 @@ The purpose of this project is to learn more about civilians’ perspectives dur
 - [Pavan Govu](https://github.com/pavangovu)
 - [Pax Gole](https://github.com/paxgole)
 - [Abby Thomas](https://github.com/thomasabigail) - Research Lead
+- [Brian Nguyen](https://github.com/briannoogin) - Graduate Advisor
+- [Dr. Karen Mazidi](https://github.com/kjmazidi) - Faculty Advisor
