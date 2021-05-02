@@ -31,3 +31,13 @@ This script processes a directory of .txt files and performs various N-Gram calc
 - [VADER Sentiment](https://github.com/cjhutto/vaderSentiment)
 - [TextBlob](textblob.readthedocs.io/)
 - [Matplotlib](https://matplotlib.org/)
+
+# Topic Modeling
+The topicModeling.py script has been based on these libraries:
+- [gensim](https://radimrehurek.com/gensim/)
+- [pyLDAvis](https://github.com/bmabey/pyLDAvis)
+- [nltk](https://www.nltk.org/)
+- [pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/stable/contents.html)
+
+It iterates over a document or set of documents to produce a Latent Dirichlet Allocation model using gensim and outputs a visualization using pyLDAvis.
