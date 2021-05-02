@@ -3,7 +3,7 @@
 ## Poster
 ![poster.png](./poster.png)
 ## Purpose
-The purpose of this project is to learn more about civilians’ perspectives during the Civil War era in America using methods of information retrieval and clustering alongside syntactical analysis and lexical semantics.
+The purpose of this project is to learn more about civilians’ perspectives during the Civil War era in America using methods of information retrieval and clustering alongside syntactical analysis and lexical semantics. Along with coming to historical conclusions, this project seeks to develop relevant and descriptive tools for historical text-mining and evaluate their efficacy for our particular data source.
 
 ## Data
 
