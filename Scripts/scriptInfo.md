@@ -1,6 +1,4 @@
 This is info about each script in this folder.
-  1. test.py - Test Version of the basic sentiment script
-
 ***
 
 # Flesch-Kincaid Grade Level and Flesch Reading Ease
@@ -24,3 +22,12 @@ This is info about each script in this folder.
 ***
 # N-Grams and Wordcloud Generation
 This script processes a directory of .txt files and performs various N-Gram calculations on them.
+
+# Sentiment Analysis
+- This script takes in the Annotations csv file with demographic data and titles of the texts and returns a csv file with Polarity and Subjectivity of each text. File prep and processing is done in file_prep.py.
+- We used [VADER Sentiment](https://github.com/cjhutto/vaderSentiment) to calculate Polarity (Positive/Neutral/Negative attitude) and used [TextBlob](textblob.readthedocs.io/) to calculate Subjectivity (Emotional-Factual content). Actual scoring is handled by file_scoring.py, called on by file_prep.
+- Finally, file_display.py contains functions to visualize both scores by demographic. We used [Matplotlib](https://matplotlib.org/) for the graphs included in the Results folder.
+## Libraries Used
+- [VADER Sentiment](https://github.com/cjhutto/vaderSentiment)
+- [TextBlob](textblob.readthedocs.io/)
+- [Matplotlib](https://matplotlib.org/)
