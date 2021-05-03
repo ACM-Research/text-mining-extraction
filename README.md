@@ -21,9 +21,11 @@ This script finds recurring bi-grams (two word combinations) and tri-grams (thre
 These scripts calculate the Polarity (Positive/Neutral/Negative attitude) and Subjectivity (Emotional-Factual content) within a text. The program calculates both scores and keeps track in a csv file. Graphs included are across demographics.
 
 ## Results
-
+ - Black authors wrote about topics pertaining to improving living standards for African-Americans, such as education, religion, and family life.
+ - Writing complexity was standard across different demographics including economic class, race, and gender
+ - Our programs can process the entire dataset (150 documents) in ~10 minutes, vs. our manual annotation process which took ~3 months
 ## Conclusion
-
+The programs we created allowed us to establish preliminary conclusions based on the corpus. They also helped us and will help future historians to better understand general perspectives and the context of a document without having to read it first. In the future, our next course of action would be to implement ways to detect false positives, such as sarcasm, in analyzed documents. Sentences with positive connotations, but negative language skewed our results. Detection of false positives would help to alleviate the issue and create more accurate analyses.
 ## Contributors
 
 - [Sophie Horner](https://github.com/hornersc)
