@@ -18,7 +18,9 @@ With the help of Bryant, Saksham, and Ryan, we first made an initial pass over a
 - The topics section encompassed a list of the main ideas we saw presented throughout the text. 
 - Demographics included information about the author, such as their race, gender, economic status, religious affiliation, etc. 
 
-By having at least four people perform annotations on each document, we reduced the chance of human error. In other words, if one annotator misinterprets a document, the likelihood of all the other annotators making the same mistake is low. Thereby, the integrity of the document annotation is preserved. Once all the scores were compiled, we could then compare the results that our scripts generated against the annotations that we had established to measure the program performance. 
+By having at least four people perform annotations on each document, we reduced the chance of human error. In other words, if one annotator misinterprets a document, the likelihood of all the other annotators making the same mistake is low. Thereby, the integrity of the document annotation is preserved. Once all the scores were compiled, we could then compare the results that our scripts generated against the annotations that we had established to measure the program performance.
+
+![Annotations Process](./Scripts/AnnotationProcess.png)
 
 ## Methods
 
@@ -40,6 +42,7 @@ Below is an example of a generated wordcloud:
 
 ### Sentiment Analysis
 These scripts calculate the Polarity (Positive/Neutral/Negative attitude) and Subjectivity (Emotional-Factual content) within a text. The program calculates both scores and keeps track in a csv file. Graphs included are across demographics.
+![Subjectivity Comparison](./Scripts/SentimentAnalysis/Results/BothSubjectivities.jpg)
 
 ## Results
  - Black authors wrote about topics pertaining to improving living standards for African-Americans, such as education, religion, and family life.
