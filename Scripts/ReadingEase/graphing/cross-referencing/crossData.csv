@@ -1,0 +1,151 @@
+,Race,Gender,Economic Status,Military Status,Religious Status,pos,neg,neutral,Percent of Negative Statements,subj,obj,Reading Ease
+fpn-beard-beard.xml,White,Female,Middle Class,Not involved in military,Texts without religious focus / impact,665,336,252,26.81564246,433,820,59.6
+fpn-davisr-davis.xml,White,Female,Middle Class,Not involved in military,Texts without religious focus / impact,424,241,124,30.54499366,289,500,70.16
+fpn-fearn-fearn.xml,White,Female,Middle Class,Not involved in military,Texts without religious focus / impact,156,51,76,18.02120141,133,150,62.35
+fpn-grimball-grimball.xml,White,Female,Middle Class,Not involved in military,Texts without religious focus / impact,224,131,132,26.89938398,197,290,60.32
+fpn-lomax-lomax.xml,White,Female,Middle Class,Not involved in military,Texts without religious focus / impact,241,263,438,27.91932059,215,727,64.58
+fpn-morgan-morgan.xml,White,Female,Middle Class,Not involved in military,Texts without religious focus / impact,164,63,88,20,105,210,53.68
+southlit-chesnut-maryches.xml,White,Female,Middle Class,Not involved in military,Texts without religious focus / impact,852,641,144,39.1569945,738,899,78.38
+fpn-brownw-brown.xml,Black,Male,Middle Class,Not involved in military,Texts without religious focus / impact,255,209,285,27.90387183,143,606,67.22
+fpn-bruce-bruce.xml,Black,Male,Middle Class,Not involved in military,Texts without religious focus / impact,242,118,44,29.20792079,135,269,49.42
+fpn-hughes-hughes.xml,Black,Male,Middle Class,Not involved in military,Texts without religious focus / impact,120,74,98,25.34246575,73,219,71.58
+fpn-northup-northup.xml,Black,Male,Middle Class,Not involved in military,Texts without religious focus / impact,454,265,267,26.87626775,323,663,60.89
+fpn-steward-steward.xml,Black,Male,Middle Class,Not involved in military,Texts without religious focus / impact,467,291,184,30.89171975,378,564,49.93
+fpn-washeducation-washing.xml,Black,Male,Middle Class,Not involved in military,Texts without religious focus / impact,520,105,70,15.10791367,211,484,49.42
+fpn-roper-roper.xml,Mixed,Male,Middle Class,Not involved in military,Texts without religious focus / impact,34,36,33,34.95145631,22,81,68.13
+neh-roper-roper.xml,Mixed,Male,Middle Class,Not involved in military,Texts without religious focus / impact,160,89,351,14.83333333,89,511,63.36
+fpn-ashby-ashby.xml,White,Male,Middle Class,Not involved in military,Texts without religious focus / impact,310,296,101,41.86704385,174,533,56.73
+fpn-bokum-bokum.xml,White,Male,Middle Class,Not involved in military,Texts without religious focus / impact,14,2,12,7.142857143,7,21,48.2
+fpn-macon-macon.xml,White,Male,Middle Class,Not involved in military,Texts without religious focus / impact,149,31,28,14.90384615,67,141,56.42
+fpn-patton-patton.xml,White,Male,Middle Class,Not involved in military,Texts without religious focus / impact,58,35,32,28,22,103,66.91
+fpn-dawson-dawson.xml,White,Female,N/A,Not involved in military,Texts without religious focus / impact,413,338,275,32.94346979,386,640,73.51
+fpn-ripleyflag-ripley.xml,White,Female,N/A,Not involved in military,Texts without religious focus / impact,285,163,49,32.79678068,192,305,69.65
+fpn-taylor-taylor.xml,White,Male,N/A,Not involved in military,Texts without religious focus / impact,281,269,61,44.02618658,161,450,50.09
+fpn-burton-burton.xml,Black,Female,Lower Class,Not involved in military,Texts without religious focus / impact,254,122,420,15.32663317,130,666,66.3
+fpn-jacobs-jacobs.xml,Black,Female,Lower Class,Not involved in military,Texts without religious focus / impact,407,266,180,31.18405627,326,527,76.35
+fpn-negnurse-negnurse.xml,Black,Female,Lower Class,Not involved in military,Texts without religious focus / impact,12,2,2,12.5,3,13,60.82
+fpn-mitchel-mitchel.xml,White,Female,Lower Class,Not involved in military,Texts without religious focus / impact,47,37,24,34.25925926,43,65,67.22
+fpn-ball-ball.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,411,296,75,37.8516624,221,561,46.41
+fpn-grandy-grandy.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,52,31,11,32.9787234,35,59,69.75
+fpn-hortonlife-horton.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,26,15,61,14.70588235,16,86,51.45
+fpn-jones-jones.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,52,19,61,14.39393939,39,93,48.17
+fpn-mason-mason.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,59,37,17,32.74336283,33,80,73.21
+fpn-negpeon-negpeon.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,6,9,3,50,3,15,71.48
+fpn-williams-williams.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,69,93,47,44.49760766,57,152,69.55
+nc-jones85-jones85.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,114,25,94,10.72961373,53,180,75.84
+neh-jonestom-jones.xml,Black,Male,Lower Class,Not involved in military,Texts without religious focus / impact,50,41,26,35.04273504,43,74,70.77
+fpn-holden-holden.xml,White,Male,Lower Class,Not involved in military,Texts without religious focus / impact,299,118,112,22.30623819,161,368,63.73
+fpn-rankin-rankin.xml,White,Male,Lower Class,Not involved in military,Texts without religious focus / impact,760,218,175,18.90719861,399,754,74.02
+fpn-andrews-andrews.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,293,216,119,34.39490446,205,423,69.75
+fpn-avary-avary.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,646,459,534,28.00488103,488,1151,71.48
+fpn-battle-lee.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,670,247,448,18.0952381,356,1009,67.42
+fpn-branch-branch.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,186,113,155,24.88986784,115,339,55.92
+fpn-bryan-bryan.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,92,29,43,17.68292683,51,113,64.58
+fpn-burge-lunt.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,39,49,52,35,32,108,76.45
+fpn-burwell-burwell.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,398,156,152,22.09631728,268,438,41.71
+fpn-chapter-chapter.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,102,77,101,27.5,56,224,67.32
+fpn-clay-clay.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,791,304,181,23.82445141,531,745,54.46
+fpn-desaussure-desaussure.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,142,64,36,26.44628099,86,156,54.6
+fpn-dimitry-dimitry.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,172,86,102,23.88888889,112,248,57.74
+fpn-felton-felton.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,685,399,255,29.79835698,436,903,59.47
+fpn-gilman-gilman.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,918,362,636,18.89352818,604,1312,50.33
+fpn-harland-harland.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,1466,551,676,20.46045303,818,1875,57.84
+fpn-harrison-harrison.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,688,253,167,22.83393502,413,695,53.99
+fpn-jervey-jervey.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,63,95,23,52.48618785,49,132,77.16
+fpn-leconteemma-leconte.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,66,70,84,31.81818182,59,161,61.29
+fpn-leigh-leigh.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,249,195,203,30.13910355,138,509,51.38
+fpn-pringle-pringle.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,1178,580,693,23.66381069,1011,1440,61.74
+fpn-pryor-pryor.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,955,375,472,20.81021088,689,1113,63.63
+fpn-ripley-ripley.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,399,145,111,22.13740458,224,431,49.72
+fpn-saxon-saxon.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,151,131,112,33.24873096,113,281,66.3
+fpn-smedes-smedes.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,779,278,429,18.70794078,468,1018,72.19
+fpn-wright-wright.xml,White,Female,Upper Class,Not involved in military,Texts without religious focus / impact,302,163,262,22.42090784,189,538,75.2
+fpn-burtont-burton.xml,Black,Male,Upper Class,Not involved in military,Texts without religious focus / impact,178,48,158,12.5,100,284,56.42
+fpn-moton-moton.xml,Black,Male,Upper Class,Not involved in military,Texts without religious focus / impact,277,50,49,13.29787234,127,249,56.93
+fpn-washington-washing.xml,Black,Male,Upper Class,Not involved in military,Texts without religious focus / impact,445,113,93,17.35791091,183,468,56.52
+fpn-pickens-pickens.xml,Mixed,Male,Upper Class,Not involved in military,Texts without religious focus / impact,90,33,43,19.87951807,27,139,57.84
+fpn-bagby-bagby.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,32,5,8,11.11111111,18,27,73.1
+fpn-biggs-biggs.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,90,25,35,16.66666667,40,110,78.72
+fpn-blackford-blackford.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,218,188,54,40.86956522,75,385,80.41
+fpn-brownd-dbrown.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,709,441,404,28.37837838,617,937,43.84
+fpn-caldwell-caldwell.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,87,24,11,19.67213115,39,83,46.64
+fpn-clinkscales-clinksc.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,341,196,206,26.3795424,247,496,66
+fpn-curry-curry.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,19,14,18,27.45098039,5,46,42.55
+fpn-hughest-hughes.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,39,18,3,30,17,43,45.43
+fpn-johnstonr-johnston.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,132,68,52,26.98412698,75,177,61.29
+fpn-leconte-leconte.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,393,98,35,18.63117871,216,310,77.77
+fpn-sawyer-sawyer.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,85,22,25,16.66666667,32,100,59.26
+southlit-pagesocial-page.xml,White,Male,Upper Class,Not involved in military,Texts without religious focus / impact,84,6,12,5.882352941,47,55,58.35
+fpn-collis-collis.xml,White,Female,Middle Class,Involved in military,Texts without religious focus / impact,43,20,21,23.80952381,32,52,48
+fpn-velazquez-velazquez.xml,White,Female,Middle Class,Involved in military,Texts without religious focus / impact,1602,686,573,23.9776302,1339,1522,32.67
+fpn-arp-arp.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,468,211,391,19.71962617,282,788,67.62
+fpn-eggleston-eggleston.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,154,93,48,31.52542373,134,161,52.16
+fpn-ford-ford.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,139,139,51,42.24924012,122,207,63.77
+fpn-grimes-grimes.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,121,147,78,42.48554913,79,267,60.69
+fpn-howard-howard.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,12,8,3,34.7826087,9,14,53.58
+fpn-johnstond-johnston.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,174,297,111,51.03092784,140,442,55.81
+fpn-kell-kell.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,390,77,188,11.75572519,203,452,60.48
+fpn-leon-leon.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,103,142,146,36.31713555,69,322,77.06
+fpn-maury-maury.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,423,172,73,25.74850299,268,400,58.45
+fpn-mckim-mckim.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,493,353,285,31.21131742,335,796,56.02
+fpn-mcleary-mcleary.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,34,25,23,30.48780488,18,64,76.18
+fpn-morganjames-morgan.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,676,413,135,33.74183007,449,775,73.92
+fpn-mosby-mosby.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,399,429,360,36.11111111,214,974,62.51
+fpn-paxton-paxton.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,176,83,150,20.29339853,91,318,73.31
+fpn-sherrill-sherrill.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,10,22,20,42.30769231,7,45,71.99
+fpn-stiles-stiles.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,687,481,215,34.77946493,515,868,42.82
+fpn-stone-stone.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,48,36,31,31.30434783,23,92,63.32
+fpn-ward-ward.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,26,9,8,20.93023256,12,31,66.57
+fpn-watterson1-watterson1.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,496,198,206,22,268,632,62.82
+fpn-watterson2-watterson2.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,505,190,266,19.7710718,285,676,59.57
+fpn-worsham-worsham.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,198,270,247,37.76223776,89,626,71.99
+fpn-young-young.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,187,113,79,29.81530343,133,246,46.17
+fpn-zettler-zettler.xml,White,Male,Middle Class,Involved in military,Texts without religious focus / impact,148,130,93,35.04043127,72,299,64.07
+fpn-greenhow-greenhow.xml,White,Female,Lower Class,Involved in military,Texts without religious focus / impact,394,323,79,40.57788945,345,451,41.06
+fpn-carroll-carroll.xml,White,Male,Lower Class,Involved in military,Texts without religious focus / impact,63,27,44,20.14925373,33,101,69.55
+fpn-copley-copley.xml,White,Male,Lower Class,Involved in military,Texts without religious focus / impact,94,139,126,38.71866295,75,284,49.83
+fpn-malone-malone.xml,White,Male,Lower Class,Involved in military,Texts without religious focus / impact,171,106,344,17.06924316,115,506,37.01
+fpn-robson-robson.xml,White,Male,Lower Class,Involved in military,Texts without religious focus / impact,151,128,143,30.33175355,103,319,20.59
+fpn-whitaker-whitaker.xml,White,Male,Lower Class,Involved in military,Texts without religious focus / impact,174,113,78,30.95890411,80,285,68.64
+fpn-boyd1-boyd1.xml,White,Female,Upper Class,Involved in military,Texts without religious focus / impact,381,278,244,30.786268,276,627,34.9
+fpn-boyd2-boyd2.xml,White,Female,Upper Class,Involved in military,Texts without religious focus / impact,280,238,211,32.64746228,218,511,48.81
+fpn-edmondson-edmondson.xml,White,Female,Upper Class,Involved in military,Texts without religious focus / impact,230,111,274,18.04878049,169,446,77.37
+fpn-oconnor-oconnor.xml,White,Female,Upper Class,Involved in military,Texts without religious focus / impact,1200,362,1132,13.437268,795,1899,55.2
+fpn-plake-plake.xml,White,Female,Upper Class,Involved in military,Texts without religious focus / impact,329,259,248,30.98086124,297,539,67.12
+fpn-boggs-boggs.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,158,105,89,29.82954545,86,266,54.46
+fpn-dupre-dupre.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,420,424,224,39.70037453,469,599,62.21
+fpn-early-early.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,417,833,239,55.9435863,300,1189,37.85
+fpn-gordon-gordon.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,519,392,187,35.70127505,392,706,47.05
+fpn-green-green.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,596,309,251,26.73010381,320,836,52.57
+fpn-houghton-houghton.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,221,326,128,48.2962963,204,471,62.65
+fpn-jonescharles-jones.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,161,170,149,35.41666667,102,378,82.88
+fpn-montgomery-montgom.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,348,278,144,36.1038961,216,554,49.32
+fpn-pickett-pickett.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,273,121,130,23.09160305,190,334,63.66
+fpn-royall-royall.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,219,154,87,33.47826087,137,323,60.08
+fpn-shepherd-shepherd.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,21,21,31,28.76712329,23,50,46.24
+fpn-thomas-thomas.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,74,28,10,25,43,69,64.48
+fpn-wise-wise.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,810,463,289,29.64148528,543,1019,58.45
+fpn-wood-wood.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,94,94,52,39.16666667,45,195,61.6
+fpn-wrightmarcus-wright.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,16,28,51,29.47368421,7,88,62.92
+fpn-wyeth-wyeth.xml,White,Male,Upper Class,Involved in military,Texts without religious focus / impact,689,485,400,30.81321474,393,1181,51.96
+fpn-ferebee-ferebee.xml,Black,Male,Middle Class,Not involved in military,Texts with religious focus / impact,29,18,10,31.57894737,14,43,73.61
+fpn-hortonpoem-hortonpoem.xml,Black,Male,Middle Class,Not involved in military,Texts with religious focus / impact,504,341,1273,16.10009443,319,1799,29.26
+fpn-jackson-jackson.xml,Black,Male,Middle Class,Not involved in military,Texts with religious focus / impact,145,74,300,14.25818882,68,451,61.74
+fpn-lane-lane.xml,Black,Male,Middle Class,Not involved in military,Texts with religious focus / impact,240,43,211,8.704453441,109,385,63.43
+neh-dsmith-dsmith.xml,Black,Male,Middle Class,Not involved in military,Texts with religious focus / impact,203,49,124,13.03191489,82,294,65.35
+fpn-aughey-aughey.xml,White,Male,Middle Class,Not involved in military,Texts with religious focus / impact,982,791,1439,24.626401,695,2517,63.32
+fpn-balch-balch.xml,White,Male,Middle Class,Not involved in military,Texts with religious focus / impact,54,17,84,10.96774194,16,139,77.77
+fpn-compton-compton.xml,White,Male,Middle Class,Not involved in military,Texts with religious focus / impact,188,64,91,18.65889213,128,215,64.68
+fpn-fee-fee.xml,White,Male,Middle Class,Not involved in military,Texts with religious focus / impact,252,118,57,27.63466042,122,305,57.44
+fpn-hamill-hamill.xml,White,Male,Middle Class,Not involved in military,Texts with religious focus / impact,70,12,59,8.510638298,29,112,48.91
+fpn-mallard-mallard.xml,White,Male,Middle Class,Not involved in military,Texts with religious focus / impact,252,78,102,18.05555556,134,298,52.67
+fpn-olive-olive.xml,White,Male,Middle Class,Not involved in military,Texts with religious focus / impact,499,238,355,21.79487179,346,746,66.3
+fpn-veney-veney.xml,Black,Female,Lower Class,Not involved in military,Texts with religious focus / impact,64,45,70,25.1396648,53,126,64.78
+fpn-kearney-kearney.xml,White,Female,Upper Class,Not involved in military,Texts with religious focus / impact,424,140,210,18.0878553,207,567,58.96
+fpn-merrick-merrick.xml,White,Female,Upper Class,Not involved in military,Texts with religious focus / impact,405,164,151,22.77777778,255,465,56.83
+fpn-edwards-edwards.xml,Black,Male,Upper Class,Not involved in military,Texts with religious focus / impact,256,116,109,24.11642412,116,365,60.79
+fpn-avirett-avirett.xml,White,Male,Upper Class,Not involved in military,Texts with religious focus / impact,294,70,192,12.58992806,133,423,62.45
+fpn-janney-janney.xml,White,Male,Upper Class,Not involved in military,Texts with religious focus / impact,945,178,337,12.19178082,386,1074,34.97
+fpn-robinson-robinson.xml,Black,Male,Middle Class,Involved in military,Texts with religious focus / impact,319,147,389,17.19298246,131,724,65.9
+fpn-betts-betts.xml,White,Male,Middle Class,Involved in military,Texts with religious focus / impact,371,291,791,20.02752925,260,1193,74.69
+fpn-crumpton-crumpton.xml,White,Male,Middle Class,Involved in military,Texts with religious focus / impact,205,89,186,18.54166667,116,364,70.97

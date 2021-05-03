@@ -24,6 +24,10 @@ By having at least four people perform annotations on each document, we reduced 
 
 ### Flesch Reading Ease
 This script processes a directory of .txt files and uses the textstat library to calculate the Flesch Reading Ease score for each document. A separate script processes .csv files of the scores and generates a box plot. The other libraries and datasets used can be seen in the readme in the scripts subfolder.
+
+The image below shows the reading ease scores all the datasets used in our research process.
+
+![Reading-Ease Box Plot](./Scripts/ReadingEase/graphing/reading-ease.png)
 ### Topic Modelling
 This script finds common and context relevant words and groups them into clusters to find topics within texts. A Latent Dirichlet Model (LDA) is used to map the words into the clusters. Output files include comparisons by gender, military affiliation, and impact of religion on text.
 ### N-Grams
@@ -39,10 +43,10 @@ These scripts calculate the Polarity (Positive/Neutral/Negative attitude) and Su
 The programs we created allowed us to establish preliminary conclusions based on the corpus. They also helped us and will help future historians to better understand general perspectives and the context of a document without having to read it first. In the future, our next course of action would be to implement ways to detect false positives, such as sarcasm, in analyzed documents. Sentences with positive connotations, but negative language skewed our results. Detection of false positives would help to alleviate the issue and create more accurate analyses.
 ## Contributors
 
+- [Pax Gole](https://github.com/paxgole)
+- [Pavan Govu](https://github.com/pavangovu)
 - [Sophie Horner](https://github.com/hornersc)
 - [Andrew Tran](https://github.com/nartmobile)
-- [Pavan Govu](https://github.com/pavangovu)
-- [Pax Gole](https://github.com/paxgole)
 - [Abby Thomas](https://github.com/thomasabigail) - Research Lead
 - [Brian Nguyen](https://github.com/briannoogin) - Graduate Advisor
 - [Dr. Karen Mazidi](https://github.com/kjmazidi) - Faculty Advisor

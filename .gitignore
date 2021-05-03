@@ -1,7 +1,6 @@
 /Scripts/ReadingEase/__pycache__
 /Scripts/ReadingEase/env
-/Scripts/ReadingEase/config.py
-/Scripts/ReadingEase/test-output.txt
-/Scripts/ReadingEase/naslave-texts
-/Scripts/ReadingEase/test.py
-/Scripts/ReadingEase/data.xlsx
+/Scripts/ReadingEase/script/config.py
+/Scripts/ReadingEase/script/test.py
+/Scripts/ReadingEase/script/data.xlsx
+/Scripts/ReadingEase/script/__pycache__
