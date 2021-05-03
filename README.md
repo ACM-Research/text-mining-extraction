@@ -38,7 +38,7 @@ This script finds common and context relevant words and groups them into cluster
 This script finds recurring bi-grams (two word combinations) and tri-grams (three word combinations) within the text to find common ideas within the texts. The program keeps tally of the bi-grams and tri-grams then returns the most common and relevant ones. 
 
 Below is an example of a generated wordcloud:
-![NGram Readme Example.png](./Scripts/NGram/NGram Readme Example.png)
+![NGramReadmeExample.png](./Scripts/NGram/NGramReadmeExample.png)
 
 ### Sentiment Analysis
 These scripts calculate the Polarity (Positive/Neutral/Negative attitude) and Subjectivity (Emotional-Factual content) within a text. The program calculates both scores and keeps track in a csv file. Graphs included are across demographics.
