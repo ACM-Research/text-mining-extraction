@@ -42,7 +42,7 @@ These scripts calculate the Polarity (Positive/Neutral/Negative attitude) and Su
  - Writing complexity was standard across different demographics including economic class, race, and gender
  - Our programs can process the entire dataset (150 documents) in ~10 minutes, vs. our manual annotation process which took ~3 months
 ## Conclusion
-The programs we created allowed us to establish preliminary conclusions based on the corpus. They also helped us and will help future historians to better understand general perspectives and the context of a document without having to read it first. In the future, our next course of action would be to implement ways to detect false positives, such as sarcasm, in analyzed documents. Sentences with positive connotations, but negative language skewed our results. Detection of false positives would help to alleviate the issue and create more accurate analyses.
+The programs we created allowed us to establish preliminary conclusions based on the corpus. They also helped us and will help future historians to better understand general perspectives and the context of a document without having to read it first. The programs also increased the efficiency of the annotations process, handling 150 documents in ~10 minutes versus the ~3 months it took our group to annotate. In the future, our next course of action would be to implement ways to detect false positives, such as sarcasm, in analyzed documents. Sentences with positive connotations, but negative language skewed our results. Detection of false positives would help to alleviate the issue and create more accurate analyses.
 ## Contributors
 
 - [Pax Gole](https://github.com/paxgole)
