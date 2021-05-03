@@ -30,6 +30,8 @@ The image below shows the reading ease scores all the datasets used in our resea
 ![Reading-Ease Box Plot](./Scripts/ReadingEase/graphing/reading-ease.png)
 ### Topic Modelling
 This script finds common and context relevant words and groups them into clusters to find topics within texts. A Latent Dirichlet Model (LDA) is used to map the words into the clusters. Output files include comparisons by gender, military affiliation, and impact of religion on text.
+
+![Topic Modeling Demonstration](./Scripts/TopicModeling/TopicModelingGithub.png)
 ### N-Grams
 This script finds recurring bi-grams (two word combinations) and tri-grams (three word combinations) within the text to find common ideas within the texts. The program keeps tally of the bi-grams and tri-grams then returns the most common and relevant ones.
 ### Sentiment Analysis
